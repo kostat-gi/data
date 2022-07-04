@@ -264,6 +264,73 @@ prose:
 #           translation_key: metadata_fields.OTHER_DOC
 #           scope: global
       ######### National Metadata #########
+      
+# 데이터유형
+      - name: "computation_definitions"
+        field:
+            element: text
+            label: "Data type"
+            translation_key: metadata_fields.computation_definitions
+            scope: national
+
+      - name: SDG_INDICATOR
+        field:
+            element: text
+            label: Indicator
+            translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
+            
+# 정의
+      - name: "indicator_definition"
+        field:
+            element: text
+            label: "Definition"
+            translation_key: metadata_fields.indicator_definition
+            scope: national
+# 의의
+      - name: "indicator_importance"
+        field:
+            element: text
+            label: "Definition"
+            translation_key: metadata_fields.indicator_importance
+            scope: national
+#측정
+      - name: "computation_calculations"
+        field:
+            element: text
+            label: "Data sources"
+            translation_key: metadata_fields.computation_calculations
+            scope: national   
+#출처통계명
+      - name: "statistics_name"
+        field:
+            element: text
+            label: "Statistics name"
+            translation_key: metadata_fields.statistics_name
+            scope: national  
+      - name: "computation_units"
+        field:
+            element: text
+            label: Unit of measure
+            translation_key: metadata_fields.computation_units
+            scope: national
+      - name: "computation_coverage"
+        field:
+            element: text
+            label: "Data coverage"
+            translation_key: metadata_fields.computation_coverage
+            scope: national            
+
+      - name: "data_download"
+        field:
+            element: text
+            label: "Data Download Date"
+            translation_key: metadata_fields.data_download_date
+            scope: national       
+      
+      
+      
+      
       - name: SDG_INDICATOR_INFO
         field:
             element: text
