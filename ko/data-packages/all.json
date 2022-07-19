@@ -1143,30 +1143,6 @@
       "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
     },
     {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
-    },
-    {
       "path": "12-4-1/data.csv",
       "name": "12-4-1",
       "profile": "tabular-data-resource",
@@ -5941,6 +5917,30 @@
         ]
       },
       "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+    },
+    {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "17-19-2/data.csv",
