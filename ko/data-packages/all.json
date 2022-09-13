@@ -3,42 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "인구성장률"
-    },
-    {
       "path": "10-7-1/data.csv",
       "name": "10-7-1",
       "profile": "tabular-data-resource",
@@ -1621,6 +1585,30 @@
         ]
       },
       "title": "global_indicators.5-5-1-title"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "인구성장률"
     },
     {
       "path": "5-2-1/data.csv",
