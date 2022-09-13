@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "경기",
+                "런던(*영국)",
+                "미국",
+                "베를린(*독일)",
+                "서울",
+                "스톡홀롬(*스웨덴)",
+                "인천",
+                "일본",
+                "캐나다",
+                "파리(*프랑스)",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-3",
+  "title": "3-2-3"
+}

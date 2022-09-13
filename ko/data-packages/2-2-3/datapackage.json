@@ -17,8 +17,29 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "경기",
+                "뉴욕",
+                "도쿄",
+                "런던",
+                "베를린",
+                "서울",
+                "수도권",
+                "스톡홀롬",
+                "오사카",
+                "인천",
+                "프랑스"
+              ]
+            },
+            "title": "지역"
           }
         ]
       }

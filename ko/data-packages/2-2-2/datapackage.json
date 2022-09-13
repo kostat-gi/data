@@ -17,8 +17,28 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "런던",
+                "미국 ",
+                "베를린",
+                "베이징",
+                "상하이",
+                "서울",
+                "스톡홀롬",
+                "일본",
+                "캐나다",
+                "호주"
+              ]
+            },
+            "title": "지역"
           }
         ]
       }

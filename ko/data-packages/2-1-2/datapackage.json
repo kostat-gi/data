@@ -17,8 +17,26 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "뉴욕",
+                "도쿄",
+                "베이징",
+                "상하이",
+                "오사카",
+                "캐나다",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
           }
         ]
       }
