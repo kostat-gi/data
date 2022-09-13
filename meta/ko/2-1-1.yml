@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 역량<br>
+  하위영역: 제도적 역량
+SDG_INDICATOR: >-
+  부정부패 지수: CORRUPTION PERCEPTIONS INDEX
+indicator_definition: 전문가들의 설문조사를 통해 해당 국가 정부가 부정부패하다고 인지하는 비율을 산정
+indicator_importance: 해당 광역 지역이 속한 국가의 부정부패 수준은 국민의 정부에 대한 신뢰에 영향을 미치고 궁극적으로 정부와 민간의 협력을 통한 발전의 노력에 대한 자발적 참여를 유도함
+computation_calculations: 12년부터 100점 만점으로 CPI 발표(이전 연도까지는 10점 만점)
+statistics_name: >-
+  Transparency International > CORRUPTION PERCEPTIONS INDEX
+computation_units: 점
+computation_coverage: >-
+  2016년~2021년, 이전자료 없음
+data_download: >-

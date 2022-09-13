@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 매력<br>
+  하위영역: 생활/환경의 지속가능성
+SDG_INDICATOR: >-
+  주거비 부담률: Housing cost overburden
+indicator_definition: 가처분 소득의 40% 이상을 주거관련 비용에 사용하는 인구의 비율로 산정
+indicator_importance: 국내 및 해외로부터의 이주의 매력적인 지역이 되려면 주거의 부담이 크지 않아야 함 
+computation_calculations: 가처분 소득의 40% 이상을 주거관련 비용에 사용하는 인구의 비율로 산정
+statistics_name: >-
+  OECD.stat > Social protection and well-being > how's life well-being -> Current well-being
+computation_units: "%"
+computation_coverage: >-
+  2010년 ~ 2019년
+data_download: >-
+  18 May 2022

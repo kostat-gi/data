@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 매력<br>
+  하위영역: 경제적 기회
+SDG_INDICATOR: >-
+  유학생 수: Enrollment of international students
+indicator_definition: 해당 지역의 고등교육 기관에 등록한 외국 학생의 수로 산정
+indicator_importance: 해당 광역에서 교육을 받기 위해 해외로부터 유입된 인력은 해당 지역의 매력과 함께 경제적 성장의 기회를 나타냄 
+computation_calculations: 고등교육기관에 등록한 외국인 유학생 수
+statistics_name: OECD.stat > Education and Training > Education at a glance > Students, access to education and participation > Enrollment of international students by country of origin
+computation_units: 명
+computation_coverage: >-
+  2005년, 2010년~2019년
+data_download: >-
+  23 May 2022

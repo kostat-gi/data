@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 번영<br>
+  하위영역: 생활 수준
+SDG_INDICATOR: >-
+  지역별 고용률: Employment rate
+indicator_definition: 지역별 만 15세 이상 64세 이하인 생산가능인구 중 취업자가 차지하는 비율
+indicator_importance: 얼마나 많은 사람이 실제로 취업하고 있는지를 가장 간명하게 나타내는 지표로서 노동시장의 현황을 핵심적으로 보여줌. 예전에는 고용 관련 지표로 경제활동참가율을 주로 사용하였으나 실업자와 비경제활동인구의 구분이 분명하지 않아 최근에는 고용률을 많이 사용하고 있는 추세
+computation_calculations: 고용률 = (취업자수÷15세 이상 64세 이하 인구) × 100
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional statistics > Regional labour > Labour indicatiors, Small regions TL3  
+computation_units: "%"
+computation_coverage: >-
+  2001년 ~ 2019년
+data_download: >-
+  22 May 2022

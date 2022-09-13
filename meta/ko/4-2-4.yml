@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 매력<br>
+  하위영역: 생활/환경의 지속가능성
+SDG_INDICATOR: >-
+  행복지수(현재의 삶에 대한 평가): Current Life Evaluation
+indicator_definition: 11점 척도의 삶의 만족도 문항을 세계 공통 문항으로 주민들에게 질문하여 평균값을 해당 지역별로 산정
+indicator_importance: 전반적인 삶의 질을 주관적 웰빙 지표 중 삶의 만족도로 나타내어 해당 지역의 전반적 웰빙의 수준을 나타냄
+computation_calculations: 11점 척도의 삶의 만족도 문항을 세계 공통 문항으로 주민들에게 질문하여 평균값을 해당 지역별로 산정
+statistics_name: >-
+  World Happiness Report(2020)
+computation_units: 점
+computation_coverage: >-
+  2020년
+data_download: >-

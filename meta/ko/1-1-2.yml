@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 자원<br>
+  하위영역: 인적 자원
+SDG_INDICATOR: >-
+  고등교육이수자 비율: Share of Labour Force with Tertiary Education
+indicator_definition: 경제활동인구 중 대졸이상의 학력을 가진 경제활동인구수가 차지하는 비율을 의미함
+indicator_importance: 국민 가운데 대학을 졸업한 인구가 많다는 것은 개인 차원에서는 교육기회가 충족되고 국가 차원에서는 우수한 인적자원을 많이 보유하고 있음을 의미함
+computation_calculations: 고등교육이수자비율 = (대졸이상경제활동인구수/전체 경제활동인구수) x 100
+statistics_name: ○ 해외 도시 - OECD.stat > Regions and Cities > Regional Statistics> Region Innovation > Education attainment of the labour force<br>○ 수도권 - KOSIS > 행정구역(시도)/교육정도별 경제활동인구(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7016S&conn_path=I3)<br> ※ KOSIS 개편 시 통계표 URL은 달라질 수 있음
+computation_units: "%"
+computation_coverage: >-
+  OECD.stat: 2001년 ~ 2017년 / KOSIS: 2001년 ~ 2021년
+data_download: >-
+  OECD.stat: 19 May 2022 / KOSIS: 2022. 5. 12.

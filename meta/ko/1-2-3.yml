@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 자원<br>
+  하위영역: 물적 자원
+SDG_INDICATOR: >-
+  가구원당 평균 방의 수: Average number of rooms per inhabiant
+indicator_definition: 가구원당 평균 방의 개수
+indicator_importance: 주거의 질을 측정하기 위한 대리지표로, 가구원당 평균 방의 개수가 많을수록 주거 관련 삶의 질이 좋고 지역의 주거인프라가 잘 갖춰져 있음을 의미함
+computation_calculations: 가구원당 평균 방의 개수 = 방의갯수 / 가구원수
+statistics_name: >-
+  OECD.stat >  Regions and Cities > Regional Statistics > Social and environmental indicators > Housing indicators
+computation_units: 개수/가구원수
+computation_coverage: >-
+  2001년 ~ 2019년
+data_download: >-
+  19 May 2022

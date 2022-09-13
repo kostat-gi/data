@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 번영<br>
+  하위영역: 경제 성장
+SDG_INDICATOR: >-
+  지역내총생산(GRDP): Regional GDP(Milions USD, constant prices, constant ppp, base year 2015)
+indicator_definition: 지역내 실질총생산 (GRDP)으로서 지역내에서 창출된 총부가가치
+indicator_importance: 생산측면에서의 경제활동의 규모를 나타내며 동시에 지역소득과 높은 관련성을 가지므로 지역의 시장규모를 반영함. 지역경제의 규모가 클수록 규모의 경제와 범위의 경제 등이 활성화되어  더 높은 수준의 분업과 특화가 이루어질 수 있는 기반이 됨
+computation_calculations: GRDP = 지역내총생산(고정가격)
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional statistics > Regional economy > Gross domestic product, small regions TL3  regional economy
+computation_units: USD
+computation_coverage: >-
+  2001년 ~ 2020년
+data_download: >-
+  20 May 2022

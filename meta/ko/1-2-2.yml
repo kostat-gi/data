@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 자원<br>
+  하위영역: 물적 자원
+SDG_INDICATOR: >-
+  인터넷이용률: Share of households with internet broadband access
+indicator_definition: 「만3세 이상 인구 중 최근 1개월 이내 인터넷을 이용한 자」의 비율
+indicator_importance: 우리나라의 인터넷 利用者 규모(인터넷 이용자수 및 이용률)를 파악하여 인터넷 관련 정책 및 비즈니스 전략 수립, 연구활동 등의 기초자료로 제공되고 있으며, ITU, OECD 등 국제기구의 방송통신 관련 국제지수 산출을 위한 주요 평가항목으로 널리 활용됨
+computation_calculations: 인터넷이용률 = 최근 1개월 이내 인터넷을 이용한 인구 / 만3세 이상 인구
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional Statistics > Social and environmental indicators > Internet broadband access 
+computation_units: "%"
+computation_coverage: >-
+  2004년 ~ 2020년
+data_download: >-
+  19 May 2022

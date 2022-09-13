@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 역량<br>
+  하위영역: 혁신 역량
+SDG_INDICATOR: >-
+  G(R)DP 중 R&D 지출 비중: Share of R&D Total Expenditure
+indicator_definition: 국가 혹은 광역 수준 총생산액 중에서 공공 혹은 민간 부문의 연구개발에 투자한 액수의 비율로 산정
+indicator_importance: 국가 혹은 지역 총생산 중에서 연구개발비 지출이 차지하는 비중은 해당 국가나 지역이 혁신과 신기술 개발에 몰입하는 정도를 나타냄
+computation_calculations: G(R)DP 중 R&D 지출 비중 = (R&D 지출/G(R)DP) x 100
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional statistics > Region innovaion > R&D expenditure by performing sector   
+computation_units: "%"
+computation_coverage: >-
+  2001년 ~ 2018년
+data_download: >-
+  16 May 2022

@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 번영<br>
+  하위영역: 경제 성장
+SDG_INDICATOR: >-
+  노동생산성: Labour productiveity
+indicator_definition: 지역 내 총생산을 지역 취업자수로 나눈 1인당 연간 GRDP
+indicator_importance: 생산측면에서 지역의 효율성을 평가할 수 있는 지표이며 노동생산성이 높을수록 지역은 효율적 생산이 가능하여 더 많은 사업들을 지역으로 유인할 것으로 보여 성장을 견인할 가능성이 높음
+computation_calculations: 취업자 1인당 GRDP = 지역내총생산(고정가격)÷취업자수
+statistics_name: >-
+  OECD.stat > Regions and Cities > Metropolitan areas > Economy
+computation_units: USD
+computation_coverage: >-
+  2001년 ~ 2019년
+data_download: >-
+  16 May 2022
