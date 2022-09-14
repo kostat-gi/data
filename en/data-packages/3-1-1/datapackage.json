@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "수도권",
+                "서울",
+                "인천",
+                "경기",
+                "도쿄",
+                "오사카",
+                "캐나다(*)",
+                "호주(*)",
+                "파리",
+                "베를린",
+                "스톡홀롬",
+                ""
+              ]
+            },
+            "title": "지역"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-1",
+  "title": "Maternal mortality ratio"
+}

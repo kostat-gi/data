@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "한국",
+                "서울",
+                "경기",
+                "인천",
+                "일본",
+                "미국",
+                "캐나다",
+                "호주",
+                "파리(*프랑스)",
+                "베를린(*독일)",
+                "런던(*영국)",
+                "스톡홀롬(*스웨덴)",
+                ""
+              ]
+            },
+            "title": "지역"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-3",
+  "title": "global_indicators.3-2-3-title"
+}
