@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 번영<br>
+  하위영역: 생활 수준
+SDG_INDICATOR: >-
+  지역물가상승률: Regional Inflation Rate
+indicator_definition: 비자가 일상 소비생활에서 구입하는 상품과 서비스의 가격변동을 조사함으로써 도시가계의 평균적인 생계비나 화폐의 구매력 변동을 측정하는 물가지수인 소비자물가지수의 전년동월대비 변화율
+indicator_importance: 물가의 변동을 통해 도시가계의 평균적인 생계비나 화폐 구매력 변동을 보여줌. 거시경제지표로서 가구부문 전체의 물가상승에 대한 지역별 측정값 제공. 국민연금, 공무원연금 등의 사회보장수혜금과 그 밖의 사회수혜금, 그리고 임금을 조정 등에 사용. 지자체에서 공공요금을 조정하거나 재정, 통화, 무역정책을 수립하고 평가하는데 사용
+computation_calculations: 소비자물가 상승률 = {(금월지수-전년동월지수)÷전년동월지수} × 100
+statistics_name: ○ 해외 도시 - OECD.stat > Prices and purchasing power parities > Consumer and producer price indices<br>○ 수도권 - KOSIS > 2019 소비자물가지수 연보
+computation_units: "%"
+computation_coverage: >-
+  OECD.stat: 2001년 ~ 2021년 / KOSIS 2001년 ~ 2019년
+data_download: >-
+  OECD.stat: 23 May 2022

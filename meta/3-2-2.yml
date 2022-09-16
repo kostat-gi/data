@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 번영<br>
+  하위영역: 생활 수준
+SDG_INDICATOR: >-
+  1인당 가처분소득: Disposable houshold income(USD per head, current prices, current PPP)
+indicator_definition: 시장소득에서 세금을 제하고 보조금을 추가한 지역내 가처분소득을 지역 인구로 나눈 1인당 가처분소득
+indicator_importance: 지역 주민들이 경제적 생활을 영위함에 있어서 가장 기본적인 경제적 기반을 되며 높은 소득은 높은 생활수준을 의미함
+computation_calculations: 1인당 가처분소득 = (가처분소득 ÷ 인구) × 100
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional statistics > Regional economy > Gross domestic product, small regions TL2 
+computation_units: USD
+computation_coverage: >-
+  2001년 ~ 2020년
+data_download: >-
+  23 May 2022

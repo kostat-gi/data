@@ -1,0 +1,14 @@
+computation_definitions: >-
+  영   역: 매력<br>
+  하위영역: 경제적 기회
+SDG_INDICATOR: >-
+  외국인 직접투자(유입): Foreign Direct Invertment(Inward)
+indicator_definition: 해당 국가에 외국인이나 기업이 투자한 액수의 GDP 대비 비율로 산정
+indicator_importance: 외국으로부터 투자가 유입되는 것은 해당 지역에서의 비즈니스와 경제활동의 전망이 밝다는 것을 의미함 
+computation_calculations: (외국인+외국기업 투자약/GDP) x 100
+statistics_name: OECD.stat > globalisation > FDI statistics according to benchmark definition 4th edition > FDI main aggregates summary
+computation_units: "%"
+computation_coverage: >-
+  2005년 ~ 2021년
+data_download: >-
+  23 May 2022

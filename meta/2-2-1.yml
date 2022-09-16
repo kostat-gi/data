@@ -1,0 +1,15 @@
+computation_definitions: >-
+  영   역: 역량<br>
+  하위영역: 혁신 역량
+SDG_INDICATOR: >-
+  인구 백만명당 특허 출원 건수: PCT(Patent Cooperation Treaty) patent applications per million inhabitants
+indicator_definition: 해당 광역에서 특허 출원을 신청한 건수를 해당 지역의 인구 백만명으로 나누어 산정
+indicator_importance: 광역별로 신기술 혹은 혁신의 결과를 제도적으로 인정받고자 하는 시도로서 해당 지역의 혁신 활동의 활발한 정도를 포괄적으로 나타냄
+computation_calculations: 인구 백만명단 특허 출원 건수 = (특허출원건수 / 인구수) x 1,000,000명
+statistics_name: >-
+  OECD.stat > Regions and Cities > Regional statistics > Region innovaion > Patent applications in regions
+computation_units: 건/백만명
+computation_coverage: >-
+  2001년 ~ 2015년
+data_download: >-
+  20 May 2022
