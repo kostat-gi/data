@@ -10,7 +10,9 @@ data_show_map: false
 #data_start_values: []
 data_start_values:
   - field: 지역
-    value: 0.전국, 1.수도권
+    value: 0.전국
+  - field: 지역
+    value: 1.수도권
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
