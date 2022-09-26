@@ -278,12 +278,13 @@ prose:
             translation_key: metadata_fields.computation_definitions
             scope: national
 
-      - name: SDG_INDICATOR
+ # 지표명(삭제하면 안됨)
+      - name: "indicator_name"
         field:
             element: text
-            label: Indicator
-            translation_key: metadata_fields.SDG_INDICATOR
-            scope: national
+            label: "Indicator name"
+            translation_key: metadata_fields.indicator_name
+            scope: national    
             
 # 정의
       - name: "indicator_definition"
@@ -1082,13 +1083,6 @@ prose:
             translation_key: metadata_fields.SDG_TARGET
             scope: national
 
-# 지표명(삭제하면 안됨)
-#      - name: "indicator_name"
-#        field:
-#            element: text
-#            label: "Indicator name"
-#            translation_key: metadata_fields.indicator_name
-#            scope: national       
-         
+        
             
   ignore: ['/scripts', '/.github']
