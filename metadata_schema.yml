@@ -334,6 +334,33 @@ prose:
             translation_key: metadata_fields.data_download_date
             scope: national 
 
+      - name: "data_provision_year"
+        field:
+            element: text
+            label: "Data Provision Year"
+            translation_key: metadata_fields.data_provision_year
+            scope: national 
+
+      - name: "data_preparation_year"
+        field:
+            element: text
+            label: "Data Preparation Year"
+            translation_key: metadata_fields.data_preparation_year
+            scope: national 
+            
+      - name: "data_generation_cycle"
+        field:
+            element: text
+            label: "Data Generation Cycle"
+            translation_key: metadata_fields.data_generation_cycle
+            scope: national      
+            
+      - name: "update_cycle"
+        field:
+            element: text
+            label: "Update Cycle"
+            translation_key: metadata_fields.update_cycle
+            scope: national  
 
       - name: SDG_SERIES_DESCR
         field:
