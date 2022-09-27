@@ -17,27 +17,8 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "지역",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "뉴욕",
-                "도쿄",
-                "런던",
-                "베를린",
-                "서울",
-                "스톡홀롬",
-                "오사카",
-                "토론토",
-                "파리"
-              ]
-            },
-            "title": "지역"
           }
         ]
       }

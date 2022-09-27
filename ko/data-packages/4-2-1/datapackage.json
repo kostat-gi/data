@@ -17,27 +17,8 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "지역",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "독일",
-                "미국",
-                "스웨덴",
-                "영국",
-                "일본",
-                "캐나다",
-                "프랑스",
-                "한국",
-                "호주"
-              ]
-            },
-            "title": "지역"
           }
         ]
       }

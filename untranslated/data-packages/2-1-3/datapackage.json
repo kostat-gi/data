@@ -12,26 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "지역",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "한국",
-                "중국",
-                "일본",
-                "독일",
-                "프랑스",
-                "스웨덴",
-                "미국",
-                "영국",
-                "캐나다",
-                "호주",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
