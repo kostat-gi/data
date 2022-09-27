@@ -279,11 +279,11 @@ prose:
             scope: national
 
  # 지표명(삭제하면 안됨)
-      - name: "indicator_name"
+      - name: "indicator_name_sub"
         field:
             element: text
             label: "Indicator name"
-            translation_key: metadata_fields.indicator_name
+            translation_key: metadata_fields.indicator_name_sub
             scope: national    
             
 # 정의
