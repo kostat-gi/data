@@ -11,10 +11,6 @@ data_show_map: false
 data_start_values:
   - field: 구분
     value: 사업체수
-  - field: 시도
-    value: 0.전국
-  - field: 시도
-    value: 1.수도권
   - field: 구분
     value: 종사자수
   - field: 시도
