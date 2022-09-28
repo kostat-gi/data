@@ -7082,30 +7082,6 @@
       "title": "지역 물가 상승률"
     },
     {
-      "path": "4-1-3/data.csv",
-      "name": "4-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-3-title"
-    },
-    {
       "path": "2-1-3/data.csv",
       "name": "2-1-3",
       "profile": "tabular-data-resource",
@@ -7128,6 +7104,30 @@
         ]
       },
       "title": "2-1-3"
+    },
+    {
+      "path": "4-1-3/data.csv",
+      "name": "4-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-1-3"
     }
   ]
 }
