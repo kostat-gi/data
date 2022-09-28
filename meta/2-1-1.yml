@@ -6,7 +6,7 @@ indicator_definition: 내부직원, 국민, 전문가들에게 설문조사를 �
 indicator_importance: 해당 지역 공공기관의 부정부패 및 청렴도 수준은 궁극적으로 정부와 민간의 협력을 통한 발전의 노력에 대한 자발적 참여를 유도함
 computation_calculations: 종합청렴도 = 외부청렴도 + 내부청렴도 - 부패사건 발생현황
 statistics_name: 국가권익위원회, 공공기관 청렴도 측정 결과
-computation_units: 점
+computation_units: "점"
 computation_coverage: 2011년 ~ 2021년
 data_provision_year: "-"
 data_preparation_year: "-"
