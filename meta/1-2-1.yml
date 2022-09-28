@@ -1,14 +1,15 @@
 computation_definitions: >-
-  영   역: 자원<br>
-  하위영역: 물적 자원
-SDG_INDICATOR: >-
-  고속도로연장률: Motorway density
-indicator_definition: 도로연장이란 도로의 총길이를 나타내는 것으로 고속국도, 일반국도, 특별·광역시도, 지방도, 시·군·구도의 연장을 말하하는데, 이 지표에서는 국제비교를 위해 고속국도 연장률을 이용함
+  <b>영   역</b>: 자원<br>
+  <b>하위영역</b>: 물적 자원
+indicator_name_sub: 국토계수당 도로연장률
+indicator_definition: 도로연장이란 도로의 총길이를 나타내는 것으로 고속국도, 일반국도, 특별·광역시도, 지방도, 시·군·구도의 연장을 말함
 indicator_importance: 도로연장이란 도로의 총길이를 나타내는 것으로 고속국도, 일반국도, 특별·광역시도, 지방도, 시·군·구도의 연장을 말함
-computation_calculations: 국토계수당 도로연장 = 도로연장(㎞) / 지역면적1,000(㎢)
-statistics_name: ○ 해외 도시 - eurostat > general and regional statistics > reional transport statistics(reg_tran) > road, rail and navigable inland waterways networks by nuts2 reiongs(tran_r_net)<br>○ 수도권 - KOSIS > 시도 도로보급률<br> (https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_966&vw_cd=MT_ZTITLE&list_id=M2_10&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)<br>KOSIS > 도시지역면적<br> (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21291E&vw_cd=MT_GTITLE01&list_id=107&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_GTITLE01)<br> ※ KOSIS 개편 시  통계표 URL은 달라질 수 있음
-computation_units: "㎞/1,000㎢"
-computation_coverage: >-
-  eurostat: 2001년 ~ 2019년 / KOSIS 2005년 ~ 2020년
-data_download: >-
-  eurostat: 2022. 5. 23./ KOSIS: 2022. 5. 23.
+computation_calculations: 도로연장(㎞) / (지역면적1,000(㎢)*인구(천명))½
+statistics_name: 국토교통부, 「도로현황」<br>https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_966&conn_path=I3
+computation_units: "km/√면적*인구"
+computation_coverage: 2013년~2020년
+data_provision_year: 2013년~2020년
+data_preparation_year: 2013년~2020년
+data_download: "-"
+data_generation_cycle: "-"
+update_cycle: "-"
