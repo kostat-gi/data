@@ -1,6 +1,6 @@
 computation_definitions: >-
-  영   역: 자원<br>
-  하위영역: 인적 자원
+  <b>영   역</b>: 자원<br>
+  <b>하위영역</b>: 인적 자원
 indicator_name_sub: >-
   인구성장률: growth/shrinking index of the total population(2001=100)
 indicator_definition: 인구성장률은 자연증가율과 사회적 증가율의 합으로 특정시점(2001년)을 기준으로 인구의 증감율을 나타내는 지표임
