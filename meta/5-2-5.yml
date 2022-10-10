@@ -1,0 +1,17 @@
+computation_definitions: >-
+  <b>영   역</b>: 기초역량과 여건<br>
+  <b>하위영역</b>: 주거/교통
+indicator_name_sub: 대중교통수송분담률
+indicator_definition: 전체유발통해에 대하여 수단별(버스, 지하철)분담률
+indicator_importance: 생산활동에 따른 유통의 효율성을 가늠함
+computation_calculations: (수단별 통행량÷전체 통행수)×100
+statistics_name: >-
+  경기도교통정보센터, 「가구통행실태조사」<br>
+  https://gits.gg.go.kr/gtdb/web/trafficDb/newzone/HB003/2/IN_OUT/3_IN_OUT_MODE.do
+computation_units: "%"
+computation_coverage: "시군구(전국없음)"
+data_provision_year: 2002년, 2006년, 2010년, 2016년
+data_preparation_year: 2002년, 2006년, 2010년, 2016년
+data_download: "-"
+data_generation_cycle: "4년, 6년"
+update_cycle: "-"

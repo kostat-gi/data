@@ -1,0 +1,18 @@
+computation_definitions: >-
+  <b>영   역</b>: 기초역량과 여건<br>
+  <b>하위영역</b>: 인구/건강
+indicator_name_sub: 기대수명
+indicator_definition: 0세의 출생자가 향후 생존할 것으로 기대되는 평균 생존연수
+indicator_importance: 인구의 건강상태를 나타내며 보건·의료정책수립, 보험료율, 인명피해 보상비 산정의 기초자료 및 장래인구추계 작성, 국가·지역 간 경제·사회·보건수준 비교의 기초자료로 활용이 가능
+computation_calculations: >-
+  총 생존년수÷0세의 생존자수(*추가보정계산 필요)   연령별 사망률 -> 연령별 사망확률 -> 생존자수 -> 정지인구 -> 기대수명
+statistics_name: >-
+  국민건강보험공단<br>
+  https://www.data.go.kr/data/15039778/fileData.do
+computation_units: "세"
+computation_coverage: "시군구"
+data_provision_year: 2004년 ~ 2019년
+data_preparation_year: 2004년 ~ 2019년
+data_download: "2022년 8월 18일"
+data_generation_cycle: "1년"
+update_cycle: "익익년 8월 말"
