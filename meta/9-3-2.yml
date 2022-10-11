@@ -13,7 +13,8 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시도"
 data_provision_year: 1998년, 2002년, 2006년 ,2009년~2021년(홀수년)
-data_preparation_year: 2011년 ~ 2021년 (홀수년)   * 2011년 부터 조사 대상 변경: 15세 이상에서 13세 이상으로 확대
+data_preparation_year: >-
+  2011년 ~ 2021년 (홀수년)   * 2011년 부터 조사 대상 변경: 15세 이상에서 13세 이상으로 확대
 data_download: "2022년 7월 21일"
 data_generation_cycle: "2년"
 update_cycle: "조사기준년도 11월"
