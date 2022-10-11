@@ -5,8 +5,7 @@ indicator_name_sub: 근로여건만족도
 indicator_definition: 현 근무하고 있는 직장의 전반적인(임금, 근로시간, 하는일 등) 근로여건에 만족하는 사람의 비율
 indicator_importance: 일자리의 질적인 측면을 근로자가 주관적으로 평가한 지표로서 경제적 성과의 질을 측정할 수 있음
 computation_calculations: >-
-  (“매우 만족”, “대체로 만족” 응답자수÷전체 응답자수)×100<br>
-  * 응답자 수: 가구원 가중값 적용
+  (“매우 만족”, “대체로 만족” 응답자수÷전체 응답자수)×100<br>* 응답자 수: 가구원 가중값 적용
 statistics_name: >-
   통계청, 「사회조사」<br>
   (시도 자료) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSLA0812R&conn_path=I3<br>
