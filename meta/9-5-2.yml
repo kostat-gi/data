@@ -1,0 +1,19 @@
+computation_definitions: >-
+  <b>영   역</b>: 개인생활<br>
+  <b>하위영역</b>: 문화/여가
+indicator_name_sub: 일생활균형지수
+indicator_definition: 일, 생활, 제도 및 지자체 관심도 등 4개 영역, 24개 지표에 대해 실태조사를 통해 산출한 점수
+indicator_importance: 대외환경 변화에 따라 새로운 근무방식이 생기면서 일·생활 균형에 대한 사회적 관심을 반영함
+computation_calculations: 24개 세부지표별로 설정한 기준값(지표별 추세를 고려한 2023년 추정값 중 최대치) 대비 해당 연도에 도달한 정도를 점수화
+statistics_name: >-
+  고용노동부<br>
+  (2019) https://www.korea.kr/news/pressReleaseView.do?newsId=156429973<br>
+  (2018) http://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=10629<br>
+  (2017) http://www.aurum.re.kr/Research/PostView.aspx?mm=1&ss=1&pid=16040#.YPestOgzZPY
+computation_units: "점"
+computation_coverage: "시도"
+data_provision_year: "2017년~2020년"
+data_preparation_year: "2017년~2020년"
+data_download: "-"
+data_generation_cycle: "-"
+update_cycle: "-"

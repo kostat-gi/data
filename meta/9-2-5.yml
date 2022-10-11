@@ -1,0 +1,20 @@
+computation_definitions: >-
+  <b>영   역</b>: 개인생활<br>
+  <b>하위영역</b>: 교육/훈련
+indicator_name_sub: 평생교육참여율
+indicator_definition: 25~79세 성인이 평생 학습프로그램에 등록건수 비율
+indicator_importance: 성인의 지역별 교육과 훈련에서의 격차를 파악할 수 있음
+computation_calculations: >-
+  (평생교육학습자 수÷25~79세 인구)×100<br>
+  *인구: 행정안전부, 주민등록인구현황(평생교육통계 매년 5월 1일조사로, 인구수 기준을 4월로 설정)
+statistics_name: >-
+  한국교육개발원(교육기본통계), 행정안전부(주민등록인구현황)<br>
+  (분자) 교육통계서비스(https://kess.kedi.re.kr/index) > 교육통계 > 평생통계 > 기관유형별 > 평생학습관 > 행정구별 학습자수<br>
+  (분모) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04005N&conn_path=I2
+computation_units: "%"
+computation_coverage: "시군구"
+data_provision_year: 2011~2020
+data_preparation_year: 2011~2020
+data_download: "-"
+data_generation_cycle: "1년"
+update_cycle: "-"
