@@ -1,0 +1,18 @@
+computation_definitions: >-
+  <b>영   역</b>: 경제적 성과<br>
+  <b>하위영역</b>: 소득/소비/자산
+indicator_name_sub: 1인당 가처분소득
+indicator_definition: 가계의 수입 중 소비와 저축 등으로 소비할 수 있는 소득
+indicator_importance: 지역주민의 평균적인 소득수준을 나타내며 경제발전의 결과로 나타나는 가장 중요한 요소  지역경제발전 결과이자 경제의 활동성을 지탱해주는 가장 중요한 축으로 간주됨
+computation_calculations: (소득-비소비지출(세금, 사회보장금 등))÷인구 수<br>*추가보정계산 필요 
+statistics_name: >-
+  OECD Statistics(Regions and Cities)<br>
+  https://stats.oecd.org/<br>
+  Regions and Cities > Regional Statistics > Regional Economy > Regional income per capita
+computation_units: "USD per head"
+computation_coverage: "시도"
+data_provision_year: 1995년~2020년
+data_preparation_year: 2001년~2020년
+data_download: "-"
+data_generation_cycle: "1년"
+update_cycle: "-"
