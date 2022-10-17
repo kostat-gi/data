@@ -6652,31 +6652,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-5-4-title"
-    },
-    {
-      "path": "9-1-7/data.csv",
-      "name": "9-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8-sig",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "9-1-7"
+      "title": "9-5-4"
     },
     {
       "path": "9-2-6/data.csv",
