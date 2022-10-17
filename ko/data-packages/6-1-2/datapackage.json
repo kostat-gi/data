@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -41,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "연구개발투자비율(GDP 대비)"
+  "title": "GRDP 중 연구개발비 지출 비중"
 }

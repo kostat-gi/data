@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -137,5 +137,5 @@
   ],
   "profile": "data-package",
   "name": "9-6-4",
-  "title": "연면적 평균 거주인수"
+  "title": "주택당 평균 거주인 수"
 }

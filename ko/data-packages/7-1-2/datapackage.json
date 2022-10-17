@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -115,5 +115,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-2",
-  "title": "미세먼지 대기오염도(PM 2.5 농도)"
+  "title": "초미세먼지 대기오염도"
 }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -133,5 +133,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-3",
-  "title": "통근시간"
+  "title": "통근 시간"
 }

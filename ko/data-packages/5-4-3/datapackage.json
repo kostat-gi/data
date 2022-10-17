@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -118,5 +118,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-3",
-  "title": "고령인구비율"
+  "title": "고령인구 비율"
 }

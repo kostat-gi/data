@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-5",
-  "title": "평생교육참여율"
+  "title": "1인당 사교육비"
 }

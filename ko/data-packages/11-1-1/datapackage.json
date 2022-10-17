@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -116,5 +116,5 @@
   ],
   "profile": "data-package",
   "name": "11-1-1",
-  "title": "1인당 생활폐기물 배출"
+  "title": "1인당 생활폐기물 배출량"
 }

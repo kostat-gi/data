@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-1",
-  "title": "주거환경만족도"
+  "title": "주거환경 만족도"
 }

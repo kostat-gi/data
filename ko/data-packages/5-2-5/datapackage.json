@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -115,5 +115,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-5",
-  "title": "대중교통수송분담률"
+  "title": "주택 소유 가구 비율"
 }

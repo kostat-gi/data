@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -53,5 +53,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-4",
-  "title": "지역별 사업체 수 및 종사자 수"
+  "title": "사업체 수 및 종사자 수"
 }

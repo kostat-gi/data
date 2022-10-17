@@ -9,7 +9,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -38,7 +38,7 @@
           }
         ]
       },
-      "title": "일ㆍ생활균형 지수"
+      "title": "1일 평균 여가시간"
     },
     {
       "path": "3-1-2/data.csv",
@@ -47,7 +47,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -89,7 +89,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -131,7 +131,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -173,7 +173,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -206,7 +206,7 @@
           }
         ]
       },
-      "title": "인구순유입률"
+      "title": "인구 순유입률"
     },
     {
       "path": "10-1-5/data.csv",
@@ -215,7 +215,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -341,7 +341,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -374,7 +374,7 @@
           }
         ]
       },
-      "title": "초미세먼지 노출량"
+      "title": "초미세먼지 대기오염도"
     },
     {
       "path": "5-1-3/data.csv",
@@ -383,7 +383,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -489,7 +489,7 @@
           }
         ]
       },
-      "title": "지자체 자산대비 부채 비율"
+      "title": "자산 대비 부채 비율"
     },
     {
       "path": "1-1-2/data.csv",
@@ -498,7 +498,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -531,7 +531,7 @@
           }
         ]
       },
-      "title": "고등교육 이수자 비율"
+      "title": "고등교육이수자 비율"
     },
     {
       "path": "6-2-3/data.csv",
@@ -540,7 +540,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -579,7 +579,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -686,7 +686,7 @@
           }
         ]
       },
-      "title": "인구증가율"
+      "title": "인구 증가율"
     },
     {
       "path": "5-4-3/data.csv",
@@ -695,7 +695,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -802,7 +802,7 @@
           }
         ]
       },
-      "title": "고령인구비율"
+      "title": "고령인구 비율"
     },
     {
       "path": "6-1-1/data.csv",
@@ -811,7 +811,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -850,7 +850,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -879,7 +879,7 @@
           }
         ]
       },
-      "title": "지역별 PIR"
+      "title": "PIR"
     },
     {
       "path": "5-3-3/data.csv",
@@ -888,7 +888,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -918,7 +918,7 @@
           }
         ]
       },
-      "title": "학교교육의 효과"
+      "title": "학교 교육의 효과"
     },
     {
       "path": "9-3-3/data.csv",
@@ -927,7 +927,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -966,7 +966,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -999,7 +999,7 @@
           }
         ]
       },
-      "title": "삶에 대한 만족도"
+      "title": "삶의 만족도"
     },
     {
       "path": "6-3-2/data.csv",
@@ -1008,7 +1008,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1038,7 +1038,7 @@
           }
         ]
       },
-      "title": "1인당 가처분소득"
+      "title": "가구당 연평균 경상소득"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1047,7 +1047,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1080,7 +1080,7 @@
           }
         ]
       },
-      "title": "국토계수당 이수자 비율"
+      "title": "국토계수당 도로연장"
     },
     {
       "path": "2-2-2/data.csv",
@@ -1089,7 +1089,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1122,7 +1122,7 @@
           }
         ]
       },
-      "title": "GDP 중 R&D 지출 비중"
+      "title": "GDP 중 연구개발비 지출 비중"
     },
     {
       "path": "11-1-4/data.csv",
@@ -1131,7 +1131,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1170,7 +1170,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1203,7 +1203,7 @@
           }
         ]
       },
-      "title": "스마트폰 보유율"
+      "title": "인터넷 이용률"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1212,7 +1212,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1242,7 +1242,7 @@
           }
         ]
       },
-      "title": "주거환경만족도"
+      "title": "주거환경 만족도"
     },
     {
       "path": "10-2-2/data.csv",
@@ -1251,7 +1251,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1281,7 +1281,7 @@
           }
         ]
       },
-      "title": "자원봉사참여율"
+      "title": "자원봉사 참여율"
     },
     {
       "path": "5-2-6/data.csv",
@@ -1290,7 +1290,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1413,7 +1413,7 @@
           }
         ]
       },
-      "title": "주택 소유 비율"
+      "title": "공공임대주택 수"
     },
     {
       "path": "6-1-2/data.csv",
@@ -1422,7 +1422,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1452,7 +1452,7 @@
           }
         ]
       },
-      "title": "연구개발투자비율(GDP 대비)"
+      "title": "GRDP 중 연구개발비 지출 비중"
     },
     {
       "path": "7-1-3/data.csv",
@@ -1461,7 +1461,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1500,7 +1500,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1539,7 +1539,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1661,7 +1661,7 @@
           }
         ]
       },
-      "title": "기대수명"
+      "title": "스트레스 인지율"
     },
     {
       "path": "5-3-2/data.csv",
@@ -1670,7 +1670,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1777,7 +1777,7 @@
           }
         ]
       },
-      "title": "교원당 학생수"
+      "title": "교원당 학생 수"
     },
     {
       "path": "10-1-1/data.csv",
@@ -1786,7 +1786,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1825,7 +1825,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1864,7 +1864,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1903,7 +1903,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2017,7 +2017,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2132,7 +2132,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2174,7 +2174,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2279,7 +2279,7 @@
           }
         ]
       },
-      "title": "독거노인 가구비율"
+      "title": "독거노인 비율"
     },
     {
       "path": "9-4-2/data.csv",
@@ -2288,7 +2288,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2327,7 +2327,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2432,7 +2432,7 @@
           }
         ]
       },
-      "title": "교통사고 발생건수"
+      "title": "교통사고 발생 건수"
     },
     {
       "path": "11-2-1/data.csv",
@@ -2441,7 +2441,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2471,7 +2471,7 @@
           }
         ]
       },
-      "title": "인구 천 명당 범죄발생건수"
+      "title": "인구 천 명당 범죄 발생 건수"
     },
     {
       "path": "5-4-5/data.csv",
@@ -2480,7 +2480,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2594,7 +2594,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2633,7 +2633,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2740,7 +2740,7 @@
           }
         ]
       },
-      "title": "인구 십만 명당 문화기반시설 수"
+      "title": "global_indicators.9-5-4-title"
     },
     {
       "path": "3-2-2/data.csv",
@@ -2749,7 +2749,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2782,7 +2782,7 @@
           }
         ]
       },
-      "title": "1인당 가처분 소득"
+      "title": "가구당 연평균 경상소득"
     },
     {
       "path": "9-4-1/data.csv",
@@ -2791,7 +2791,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2820,7 +2820,7 @@
           }
         ]
       },
-      "title": "1인당 개인소득"
+      "title": "가구당 연평균 경상소득"
     },
     {
       "path": "11-2-3/data.csv",
@@ -2829,7 +2829,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2859,7 +2859,7 @@
           }
         ]
       },
-      "title": "소방공무원 1인당 담당 주민수"
+      "title": "소방공무원 1인당 담당 주민 수"
     },
     {
       "path": "10-2-4/data.csv",
@@ -2868,7 +2868,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2898,7 +2898,7 @@
           }
         ]
       },
-      "title": "사회단체참여율"
+      "title": "사회단체 참여율"
     },
     {
       "path": "3-1-1/data.csv",
@@ -2907,7 +2907,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2949,7 +2949,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2982,7 +2982,7 @@
           }
         ]
       },
-      "title": "창업기업수 증감"
+      "title": "창업기업 증감률"
     },
     {
       "path": "5-4-7/data.csv",
@@ -2991,7 +2991,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3101,7 +3101,7 @@
           }
         ]
       },
-      "title": "부양인구비"
+      "title": "global_indicators.5-4-7-title"
     },
     {
       "path": "4-2-1/data.csv",
@@ -3110,7 +3110,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3143,7 +3143,7 @@
           }
         ]
       },
-      "title": "주거환경만족도"
+      "title": "주거환경 만족도"
     },
     {
       "path": "9-5-3/data.csv",
@@ -3152,7 +3152,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3182,7 +3182,7 @@
           }
         ]
       },
-      "title": "평일 여가시간 비중"
+      "title": "인구 십만 명당 문화기반시설 수"
     },
     {
       "path": "9-1-5/data.csv",
@@ -3191,7 +3191,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3296,7 +3296,7 @@
           }
         ]
       },
-      "title": "스트레스 인지율"
+      "title": "주관적 건강수준"
     },
     {
       "path": "1-1-1/data.csv",
@@ -3305,7 +3305,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3338,7 +3338,7 @@
           }
         ]
       },
-      "title": "인구성장률"
+      "title": "인구성장지수"
     },
     {
       "path": "9-2-6/data.csv",
@@ -3347,7 +3347,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3377,7 +3377,7 @@
           }
         ]
       },
-      "title": "학생 1인당 월평균 사교육비"
+      "title": "global_indicators.9-2-6-title"
     },
     {
       "path": "1-2-3/data.csv",
@@ -3386,7 +3386,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3419,7 +3419,7 @@
           }
         ]
       },
-      "title": "가구원당 평균 방의 개수"
+      "title": "가구원당 평균 방수"
     },
     {
       "path": "4-2-3/data.csv",
@@ -3428,7 +3428,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3461,7 +3461,7 @@
           }
         ]
       },
-      "title": "인구 천만 명당 의사 수"
+      "title": "인구 천 명당 의사 수"
     },
     {
       "path": "11-2-4/data.csv",
@@ -3470,7 +3470,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3500,7 +3500,7 @@
           }
         ]
       },
-      "title": "사회안전에 대한 인식"
+      "title": "사회 안전에 대한 인식"
     },
     {
       "path": "9-6-6/data.csv",
@@ -3509,7 +3509,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3632,7 +3632,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3662,7 +3662,7 @@
           }
         ]
       },
-      "title": "녹지 환경 만족도"
+      "title": "녹지환경 만족도"
     },
     {
       "path": "6-2-2/data.csv",
@@ -3671,7 +3671,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3710,7 +3710,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3815,7 +3815,7 @@
           }
         ]
       },
-      "title": "비만유병률"
+      "title": "global_indicators.9-1-7-title"
     },
     {
       "path": "3-1-3/data.csv",
@@ -3824,7 +3824,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3866,7 +3866,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3972,7 +3972,7 @@
           }
         ]
       },
-      "title": "자가보유율"
+      "title": "자가 보유율"
     },
     {
       "path": "9-3-4/data.csv",
@@ -3981,7 +3981,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4020,7 +4020,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4059,7 +4059,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4089,7 +4089,7 @@
           }
         ]
       },
-      "title": "가구순자산"
+      "title": "가구 순자산"
     },
     {
       "path": "10-1-2/data.csv",
@@ -4098,7 +4098,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4137,7 +4137,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4243,7 +4243,7 @@
           }
         ]
       },
-      "title": "주민 1인당 자체수입액"
+      "title": "주민 1인당 자체 수입액"
     },
     {
       "path": "10-2-1/data.csv",
@@ -4252,7 +4252,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4357,7 +4357,7 @@
           }
         ]
       },
-      "title": "기초생활보장 수급자수"
+      "title": "기초생활보장 수급자 수"
     },
     {
       "path": "2-2-3/data.csv",
@@ -4366,7 +4366,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4408,7 +4408,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4526,7 +4526,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4565,7 +4565,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4604,7 +4604,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4646,7 +4646,7 @@
           }
         ]
       },
-      "title": "지역별 사업체 수 및 종사자 수"
+      "title": "사업체 수 및 종사자 수"
     },
     {
       "path": "9-6-5/data.csv",
@@ -4655,7 +4655,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4694,7 +4694,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4799,7 +4799,7 @@
           }
         ]
       },
-      "title": "1인당 생활폐기물 배출"
+      "title": "1인당 생활폐기물 배출량"
     },
     {
       "path": "7-1-1/data.csv",
@@ -4808,7 +4808,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4847,7 +4847,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4963,7 +4963,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5078,7 +5078,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5194,7 +5194,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5233,7 +5233,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5272,7 +5272,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5377,7 +5377,7 @@
           }
         ]
       },
-      "title": "대중교통접근성"
+      "title": "대중교통 접근성"
     },
     {
       "path": "5-3-1/data.csv",
@@ -5386,7 +5386,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5416,7 +5416,7 @@
           }
         ]
       },
-      "title": "고등교육이수율"
+      "title": "고등교육이수자 비율"
     },
     {
       "path": "5-2-4/data.csv",
@@ -5425,7 +5425,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5454,7 +5454,7 @@
           }
         ]
       },
-      "title": "지역별 PIR"
+      "title": "PIR"
     },
     {
       "path": "5-2-3/data.csv",
@@ -5463,7 +5463,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5585,7 +5585,7 @@
           }
         ]
       },
-      "title": "통근시간"
+      "title": "통근 시간"
     },
     {
       "path": "5-4-1/data.csv",
@@ -5594,7 +5594,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5733,7 +5733,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5847,7 +5847,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5886,7 +5886,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5916,7 +5916,7 @@
           }
         ]
       },
-      "title": "고등교육이수율"
+      "title": "고등교육이수자 비율"
     },
     {
       "path": "9-2-4/data.csv",
@@ -5925,7 +5925,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5964,7 +5964,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5994,7 +5994,7 @@
           }
         ]
       },
-      "title": "학교생활 만족도"
+      "title": "학교 생활 만족도"
     },
     {
       "path": "4-1-2/data.csv",
@@ -6003,7 +6003,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6036,7 +6036,7 @@
           }
         ]
       },
-      "title": "외국인 중 유학생 수"
+      "title": "유학생 수"
     },
     {
       "path": "5-4-6/data.csv",
@@ -6045,7 +6045,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6167,7 +6167,7 @@
           }
         ]
       },
-      "title": "기대수명"
+      "title": "인구 부양비"
     },
     {
       "path": "9-1-6/data.csv",
@@ -6176,7 +6176,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6281,7 +6281,7 @@
           }
         ]
       },
-      "title": "주관적 건강수준 인지율"
+      "title": "비만 유병률"
     },
     {
       "path": "9-6-1/data.csv",
@@ -6290,7 +6290,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6329,7 +6329,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6368,7 +6368,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6407,7 +6407,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6437,7 +6437,7 @@
           }
         ]
       },
-      "title": "공공임대주택 수"
+      "title": "global_indicators.5-2-7-title"
     },
     {
       "path": "5-2-5/data.csv",
@@ -6446,7 +6446,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6550,7 +6550,7 @@
           }
         ]
       },
-      "title": "대중교통수송분담률"
+      "title": "주택 소유 가구 비율"
     },
     {
       "path": "9-1-3/data.csv",
@@ -6559,7 +6559,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6666,7 +6666,7 @@
           }
         ]
       },
-      "title": "인구 천 명당 의료기관 종사 의사수"
+      "title": "인구 천 명당 의사 수"
     },
     {
       "path": "7-1-4/data.csv",
@@ -6675,7 +6675,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6714,7 +6714,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6840,7 +6840,7 @@
           }
         ]
       },
-      "title": "연면적 평균 거주인수"
+      "title": "주택당 평균 거주인 수"
     },
     {
       "path": "7-1-2/data.csv",
@@ -6849,7 +6849,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -6953,7 +6953,7 @@
           }
         ]
       },
-      "title": "미세먼지 대기오염도(PM 2.5 농도)"
+      "title": "초미세먼지 대기오염도"
     },
     {
       "path": "6-1-3/data.csv",
@@ -6962,7 +6962,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7001,7 +7001,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7040,7 +7040,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7055,7 +7055,7 @@
           }
         ]
       },
-      "title": "평생교육참여율"
+      "title": "1인당 사교육비"
     },
     {
       "path": "3-2-3/data.csv",
@@ -7064,7 +7064,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7079,7 +7079,7 @@
           }
         ]
       },
-      "title": "지역 물가 상승률"
+      "title": "global_indicators.3-2-3-title"
     },
     {
       "path": "4-1-3/data.csv",
@@ -7088,7 +7088,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {

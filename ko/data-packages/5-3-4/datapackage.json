@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -41,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-4",
-  "title": "학교생활 만족도"
+  "title": "학교 생활 만족도"
 }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -121,5 +121,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-7",
-  "title": "부양인구비"
+  "title": "global_indicators.5-4-7-title"
 }

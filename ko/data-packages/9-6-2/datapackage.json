@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -40,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "9-6-2",
-  "title": "지역별 PIR"
+  "title": "PIR"
 }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -133,5 +133,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-4",
-  "title": "기대수명"
+  "title": "스트레스 인지율"
 }

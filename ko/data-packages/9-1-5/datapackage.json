@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -116,5 +116,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-5",
-  "title": "스트레스 인지율"
+  "title": "주관적 건강수준"
 }

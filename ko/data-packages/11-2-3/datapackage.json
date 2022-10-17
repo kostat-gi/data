@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -41,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-3",
-  "title": "소방공무원 1인당 담당 주민수"
+  "title": "소방공무원 1인당 담당 주민 수"
 }

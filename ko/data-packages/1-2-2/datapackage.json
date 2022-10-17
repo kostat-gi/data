@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8-sig",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-2",
-  "title": "스마트폰 보유율"
+  "title": "인터넷 이용률"
 }
