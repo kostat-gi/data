@@ -12,36 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "구분",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "사업체수",
-                "종사자수",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "시도",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.전국",
-                "1.수도권",
-                "2.서울특별시",
-                "3.인천광역시",
-                "4.경기도",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
