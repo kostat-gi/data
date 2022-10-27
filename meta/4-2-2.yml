@@ -1,15 +1,17 @@
 computation_definitions: >-
   영   역: 매력<br>
   하위영역: 생활/환경의 지속가능성
-SDG_INDICATOR: >-
-  미세먼지 노출량: Mean population exposure to pm2.5  air pollution in the core area
-indicator_definition: PM 2.5로 정의된 미세먼지의 연간 측정량을 지역 공간, 인구를 고려하여 산정함
-indicator_importance: 미세먼지 등 자연환경의 질은 점점 더 건강과 쾌적함을 중시하는 현대에서 중요한 지역의 매력요인으로 작용함 
-computation_calculations: PM 2.5로 정의된 미세먼지의 연간 측정량을 지역 공간, 인구를 고려하여 산정함
+SDG_INDICATOR: 초미세먼지 대기오염도
+indicator_definition: 입자의 크기가 2.5μg 이하인 미세먼지
+indicator_importance: 미세먼지 등 자연환경의 질은 점점 더 건강과 쾌적함을 중시하는 현대에서 중요한 지역의 매력요인으로 작용함
+computation_calculations: 전국 측정소의 측정자료의 월별 PM 2.5 측정량(유효 측정값 75% 이상)의 평균
 statistics_name: >-
-  OECD.stat > Regions and cities > Metropolitan areas > Environment
+  환경부, 「대기환경연보」<br>
+  https://kosis.kr/statHtml/statHtml.do?orgId=106&tblId=DT_106N_03_0200176&conn_path=I3
 computation_units: "μg/㎥"
-computation_coverage: >-
-  2005년, 2010년~2019년
-data_download: >-
-  18 May 2022
+computation_coverage: 시군구
+#data_provision_year: 2015년 ~ 2020년
+data_preparation_year: 2015년 ~ 2020년
+#data_download: "-"
+data_generation_cycle: 매월
+#update_cycle: "-"
