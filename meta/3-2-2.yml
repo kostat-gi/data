@@ -1,15 +1,18 @@
 computation_definitions: >-
   영   역: 번영<br>
   하위영역: 생활 수준
-SDG_INDICATOR: >-
-  1인당 가처분소득: Disposable houshold income(USD per head, current prices, current PPP)
-indicator_definition: 시장소득에서 세금을 제하고 보조금을 추가한 지역내 가처분소득을 지역 인구로 나눈 1인당 가처분소득
+SDG_INDICATOR: 가구당 연평균 경상소득
+indicator_definition: 가구에서 한 해 동안 경상적(정기적, 규칙적)으로 벌어들이는 평균 소득
 indicator_importance: 지역 주민들이 경제적 생활을 영위함에 있어서 가장 기본적인 경제적 기반을 되며 높은 소득은 높은 생활수준을 의미함
-computation_calculations: 1인당 가처분소득 = (가처분소득 ÷ 인구) × 100
+computation_calculations: 당해년 총 경상소득 ÷ 가구 수
 statistics_name: >-
-  OECD.stat > Regions and Cities > Regional statistics > Regional economy > Gross domestic product, small regions TL2 
-computation_units: USD
-computation_coverage: >-
-  2001년 ~ 2020년
-data_download: >-
-  23 May 2022
+  통계청, 한국은행, 금융감독원 「가계금융복지조사」 / 통계청 「장래가구추계」<br>
+  (경상소득) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1HDBA01&conn_path=I3<br>
+  (가구 수) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BZ0505&conn_path=I3 
+computation_units: 만원, 가구
+computation_coverage: 시도
+#data_provision_year: 2015년 ~ 2020년
+data_preparation_year: 2011년 ~ 2020년
+#data_download: "-"
+data_generation_cycle: 1년
+#update_cycle: "-"
