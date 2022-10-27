@@ -1,14 +1,17 @@
 computation_definitions: >-
   영   역: 매력<br>
   하위영역: 경제적 기회
-SDG_INDICATOR: >-
-  유학생 수: Enrollment of international students
-indicator_definition: 해당 지역의 고등교육 기관에 등록한 외국 학생의 수로 산정
+SDG_INDICATOR: 유학생 수
+indicator_definition: 유학(D2) 체류자격이 있는 외국인
 indicator_importance: 해당 광역에서 교육을 받기 위해 해외로부터 유입된 인력은 해당 지역의 매력과 함께 경제적 성장의 기회를 나타냄 
-computation_calculations: 고등교육기관에 등록한 외국인 유학생 수
-statistics_name: OECD.stat > Education and Training > Education at a glance > Students, access to education and participation > Enrollment of international students by country of origin
+computation_calculations: 공항만의 출입국 심사를 통해 생성
+statistics_name: >-
+  법무부, 「출입국자및체류외국인통계」<br>
+  https://kosis.kr/statHtml/statHtml.do?orgId=111&tblId=DT_1B040A11&conn_path=I3
 computation_units: 명
-computation_coverage: >-
-  2005년, 2010년~2019년
-data_download: >-
-  23 May 2022
+computation_coverage: 시군구
+#data_provision_year: 2015년 ~ 2020년
+data_preparation_year: 2010년 ~ 2021년
+#data_download: "-"
+data_generation_cycle: 매년
+update_cycle: "익년 7월"
