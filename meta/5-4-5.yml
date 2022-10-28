@@ -14,6 +14,6 @@ computation_units: "점"
 computation_coverage: "시군구"
 data_provision_year: 2008년~2019년
 data_preparation_year: 2008년~2019년
-data_download: "-"
+#data_download: "-"
 data_generation_cycle: "1년"
-update_cycle: "-"
+#update_cycle: "-"
