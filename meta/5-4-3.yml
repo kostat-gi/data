@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 기초역량과 여건<br>
   <b>하위영역</b>: 인구/건강
-indicator_name_sub: 고령인구비율
+indicator_name_sub: 고령인구 비율
 indicator_definition: 전체 인구에서 65세이상 인구가 차지하는 비율로 인구의 노령화 정도
 indicator_importance: 지역성장력 약화, 재정 건전성 악화와 밀접한 관계가 있음
 computation_calculations: >-
@@ -15,4 +15,4 @@ data_provision_year: 2000년 ~ 2021년
 data_preparation_year: 2001년 ~ 2021년 
 data_download: "2022년 8월 6일"
 data_generation_cycle: "1년"
-update_cycle: "-"
+#update_cycle: "-"
