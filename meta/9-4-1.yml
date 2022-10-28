@@ -1,20 +1,18 @@
 computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 소득/소비
-indicator_name_sub: 1인당 개인소득
-indicator_definition: 가계 및 가계에 봉사하는 비영리단체의 총처분가능소득을 지역 인구수로 나눈 1인당 연간소득
-indicator_importance: 지역별 경제활동의 부가가치 발생정도를 파악할 수 있음<br>지역소득의 생산, 분배, 지출 각 측면이나 경제 주체간 소득 순환을 파악하여, 지역경제의 실태를 포괄적으로 나타냄
-computation_calculations: >-
-  개인(사용) 총처분가능 소득÷추계인구<br>
-  * 통계청 시도별 장래인구추계결과로 산출
+indicator_name_sub: 가구당 연평균 경상소득
+indicator_definition: 가구에서 한 해 동안 경상적(정기적, 규칙적)으로 벌어들이는 평균 소득
+indicator_importance: 지역주민의 평균적인 소득수준을 나타내며 경제발전의 결과로 나타나는 가장 중요한 요소  지역경제발전 결과이자 경제의 활동성을 지탱해주는 가장 중요한 축으로 간주됨
+computation_calculations: 당해년 총 경상소득 ÷ 가구 수
 statistics_name: >-
-  통계청, 「지역소득」<br>
-  https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1C86_04&conn_path=I3<br>
-  (추계인구) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BPB001&conn_path=I2
-computation_units: "천원"
+  통계청, 한국은행, 금융감독원 「가계금융복지조사」 / 통계청 「장래가구추계」<br>
+  (경상소득) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1HDBA01&conn_path=I3<br>
+  (가구 수) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BZ0505&conn_path=I3
+computation_units: "만원, 가구"
 computation_coverage: "시도"
-data_provision_year: "-"
-data_preparation_year: "-"
-data_download: "-"
+#data_provision_year: 1995년~2020년
+data_preparation_year: 2001년~2020년
+#data_download: "-"
 data_generation_cycle: "1년"
-update_cycle: "-"
+#update_cycle: "-"
