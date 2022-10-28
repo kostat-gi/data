@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 환경<br>
   <b>하위영역</b>: 생활환경
-indicator_name_sub: 1인당 생활폐기물 배출
+indicator_name_sub: 1인당 생활폐기물 배출량
 indicator_definition: 주민 1인당 배출하는 생활폐기물의 양
 indicator_importance: 경제활동과 밀접하게 연계되어 있으며, 재활용률이 높아질수록 환경오염 발생가능성이 감소함으로 생활환경행태와 관련하여 중요함
 computation_calculations: 생활폐기물발생량(kg/일)÷주민등록인구
