@@ -1,7 +1,7 @@
 computation_definitions: >-
   영   역: 역량<br>
   하위영역: 혁신 역량
-SDG_INDICATOR: >-
+indicator_name_sub: >-
   지식집약 서비스 활동 근로자 비율: Share of employment in knowledge-intensive services
 indicator_definition: 취업자 중에서 정보통신, 금융, 전문과학 및 기술서비스, 교육서비스, 보건 및 사회복지, 예술활동에 참여하는 비율로 산정
 indicator_importance: 지식집약적 서비스는 혁신활동 혹은 이를 지원하는 활동으로서 이에 종사하는 인력의 비율은 혁신활동에 직간접적으로 참여하는 인적 자원 비율을 나타냄
