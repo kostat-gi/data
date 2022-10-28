@@ -1,7 +1,7 @@
 computation_definitions: >-
   영   역: 매력<br>
   하위영역: 생활/환경의 지속가능성
-SDG_INDICATOR: 삶의 만족도
+indicator_name_sub: 삶의 만족도
 indicator_definition: 13세 이상 인구 중 경제적인 면, 가족관계, 직업, 건강 등을 전반적으로 느끼는 만족감(행복도)에 대한 비율
 indicator_importance: 전반적인 삶의 질을 주관적 웰빙 지표 중 삶의 만족도로 나타내어 해당 지역의 전반적 웰빙의 수준을 나타냄
 computation_calculations: >-
