@@ -12,6 +12,6 @@ computation_units: "개수"
 computation_coverage: "시도"
 data_provision_year: 2002년~2020년
 data_preparation_year: 2002년~2020년
-data_download: "-"
+#data_download: "-"
 data_generation_cycle: "1년"
 update_cycle: "익년 9월"
