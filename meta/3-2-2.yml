@@ -1,7 +1,7 @@
 computation_definitions: >-
   영   역: 번영<br>
   하위영역: 생활 수준
-SDG_INDICATOR: 가구당 연평균 경상소득
+indicator_name_sub: 가구당 연평균 경상소득
 indicator_definition: 가구에서 한 해 동안 경상적(정기적, 규칙적)으로 벌어들이는 평균 소득
 indicator_importance: 지역 주민들이 경제적 생활을 영위함에 있어서 가장 기본적인 경제적 기반을 되며 높은 소득은 높은 생활수준을 의미함
 computation_calculations: 당해년 총 경상소득 ÷ 가구 수
