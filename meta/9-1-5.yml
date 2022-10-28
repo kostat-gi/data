@@ -1,15 +1,15 @@
 computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 건강
-indicator_name_sub: 스트레스 인지율
-indicator_definition: 평소 일상생활 중 스트레스르 “대단히 많이” 또는 “많이” 느끼는 사람 비율
-indicator_importance: 정신건강을 측정하는데 대표적
+indicator_name_sub: 주관적 건강수준
+indicator_definition: 주관적 건강수준을 “매우 좋음”또는 “좋음” 으로 응답한 사람의 비율
+indicator_importance: 개인의 건강에 대한 주관적 인식을 파악해 건강 관련 정책 및 연구의 기초자료로 활용이 가능
 computation_calculations: >-
-  (“대단히 많이 느낀다 ”, “많이 느끼는 편이다” 응답자수÷전체 응답자수)×100<br>
-  * 응답자 수: 가구원 가중값 적용  ** 전국 자료: 시군구 중앙값
+  (“매우 좋음”, “좋음” 응답자수÷전체 응답자수)×100<br>
+  * 응답자 수: 가구원 가중값 적용
 statistics_name: >-
   보건복지부, 「지역사회건강조사」<br>
-  (시군구 자료) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21041E&conn_path=I3<br>
+  (시군구 자료) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21011E&conn_path=I3<br>
   (전국/수도권 자료) 질병관리청 > 지역사회건강조사 > 자료실 > 보고서 > 지역건강통계 한눈에 보기
 computation_units: "%"
 computation_coverage: "시군구"
