@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 환경<br>
   <b>하위영역</b>: 안전
-indicator_name_sub: 사회안전에 대한 인식
+indicator_name_sub: 사회 안전에 대한 인식
 indicator_definition: 13세 이상 인구 중 우리사회가 자연재해, 범죄발생 등의 전반적인 사회분야에 어느 정도 안전하다고 생각하는지에 대한 비율
 indicator_importance: 전반적인 사회에 대한 국민들의 안전의식을 파악하고 정책수립 및 연구의 기초자료로 활용이 가능함
 computation_calculations: >-
