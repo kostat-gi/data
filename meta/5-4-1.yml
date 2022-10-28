@@ -9,10 +9,10 @@ statistics_name: >-
   통계청, 「인구동향조사」<br>
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1B81A17&conn_path=I3<br>
   (주민등록인구) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04005N&vw_cd=MT_ZTITLE&list_id=A_7&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE 
-computation_units: "%"
+computation_units: "명"
 computation_coverage: "시군구"
-data_provision_year: "-"
-data_preparation_year: "-"
-data_download: "-"
+#data_provision_year: "-"
+#data_preparation_year: "-"
+#data_download: "-"
 data_generation_cycle: "1년"
-update_cycle: "-"
+#update_cycle: "-"
