@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 건강
-indicator_name_sub: 비만유병률
+indicator_name_sub: 비만 유병률
 indicator_definition: 체질량지수(kg/㎡)가 25이상인 사람의 분율
 indicator_importance: 비만에 대한 국민관심 증대 및 사회적 비용증가 추세에 따라 건강영역을 대표하며, 만성질환의 주요원인이 되는 비만의 관리 및 국민건강증진 정책의 개발을 위한 기초자료로 활용이 가능함
 computation_calculations: >-
