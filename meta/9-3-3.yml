@@ -15,4 +15,4 @@ data_provision_year: 1999년 ~ 2021년
 data_preparation_year: 2001년 ~ 2021년
 data_download: "2022년 7월 21일"
 data_generation_cycle: "월, 분기, 년"
-update_cycle: "-"
+#update_cycle: "-"
