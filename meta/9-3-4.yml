@@ -11,8 +11,8 @@ statistics_name: >-
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15005E_1&conn_path=I2
 computation_units: "시간"
 computation_coverage: "시도"
-data_provision_year: "-"
-data_preparation_year: "-"
-data_download: "-"
-data_generation_cycle: "-"
-update_cycle: "-"
+#data_provision_year: "-"
+#data_preparation_year: "-"
+#data_download: "-"
+#data_generation_cycle: "-"
+#update_cycle: "-"
