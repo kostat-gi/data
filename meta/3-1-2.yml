@@ -1,7 +1,7 @@
 computation_definitions: >-
   영   역: 번영<br>
   하위영역: 경제 성장
-SDG_INDICATOR: GRDP 전년 대비 증가율
+indicator_name_sub: GRDP 전년 대비 증가율
 indicator_definition: 지역내 실질총생산(GRDP)의 전년대비 증가율
 indicator_importance: 산출 측면에서 해당 지역의 경제력이 얼마만큼 확대되고 있는지 파악하는데 중요하며 지역의 현재와 미래의 성장을 가늠할 수 있는 지표
 computation_calculations: ( 해당년도 GRDP - 전년도 GRDP ) / 전년도 GRDP *100 
