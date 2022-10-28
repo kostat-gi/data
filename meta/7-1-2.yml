@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 지속가능성<br>
   <b>하위영역</b>: 환경
-indicator_name_sub: 미세먼지 대기오염도
+indicator_name_sub: 초미세먼지 대기오염도
 indicator_definition: 도심(거주)지역의 평균 대기오염물질
 indicator_importance: 대기에 대한 질적 개선 정도로, 대기오염의 현황파악 및 미세먼지 등, 대기 관련 정책의 수립‧이행‧평가 시 기초자료로 활용이 가능함
 computation_calculations: >-
@@ -15,6 +15,6 @@ computation_units: "μg/m³"
 computation_coverage: "시군구"
 data_provision_year: 2015년 ~ 2020년
 data_preparation_year: 2015년 ~ 2020년
-data_download: "2022년 5월 17일"
+data_download: "/ 2022년 5월 17일"
 data_generation_cycle: "월"
-update_cycle: "-"
+#update_cycle: "-"
