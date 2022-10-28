@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 기초역량과 여건<br>
   <b>하위영역</b>: 교육/훈련
-indicator_name_sub: 학교교육의 효과
+indicator_name_sub: 학교 교육의 효과
 indicator_definition: 13세 이상 인구 중 현재 학교교육이 생활·직업·취업에의 활용에 효과가 있다고 응답한 비율
 indicator_importance: 학교 교육효과에 대한 국민들의 주관적 의식을 파악 가능
 computation_calculations: >-
@@ -18,6 +18,6 @@ data_provision_year: 2000년, 2004년, 2008년~2020년(짝수년)
 data_preparation_year: >-
   2012년~2020년(짝수년)<br>
   * 2011년 부터 조사 대상 변경: 15세 이상에서 13세 이상으로 확대
-data_download: "-"
+#data_download: "-"
 data_generation_cycle: "2년"
 update_cycle: "조사기준년도 11월"
