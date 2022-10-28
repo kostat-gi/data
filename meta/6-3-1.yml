@@ -10,8 +10,8 @@ statistics_name: >-
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15006&conn_path=I3
 computation_units: "원"
 computation_coverage: "시도"
-data_provision_year: 2011년~2021년
+#data_provision_year: 2011년~2021년
 data_preparation_year: 2011년~2021년
-data_download: "-"
+#data_download: "-"
 data_generation_cycle: "1년"
-update_cycle: "-"
+#update_cycle: "-"
