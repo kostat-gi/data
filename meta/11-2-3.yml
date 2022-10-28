@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 환경<br>
   <b>하위영역</b>: 안전
-indicator_name_sub: 소방공무원 1인당 담당 주민수
+indicator_name_sub: 소방공무원 1인당 담당 주민 수
 indicator_definition: 소방공무원 한 명이 담당하는 지역 주민의 수
 indicator_importance: 지역별로 소방인력이 담당하고 있는 업무의 강도를 보여줄 수 있고, 소방인력 확보 등을 위한 기초자료로 활용되며, 수치가 클수록 업무부담이 크다는 것을 의미함
 computation_calculations: 주민수÷소방공무원수
