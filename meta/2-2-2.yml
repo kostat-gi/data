@@ -1,7 +1,7 @@
 computation_definitions: >-
   영   역: 역량<br>
   하위영역: 혁신 역량
-SDG_INDICATOR: GRDP 중 연구개발비 지출 비중
+indicator_name_sub: GRDP 중 연구개발비 지출 비중
 indicator_definition: 광역 수준 총생산액 중에서 공공 혹은 민간 부문의 연구개발에 투자한 액수의 비율로 산정
 indicator_importance: 지역 총생산 중에서 연구개발비 지출이 차지하는 비중은 해당 국가나 지역이 혁신과 신기술 개발에 몰입하는 정도를 나타냄
 computation_calculations: (R&D 투자금액/GRDP) x 100<br> * 실질, 2015년 기준
