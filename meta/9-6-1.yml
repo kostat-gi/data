@@ -14,4 +14,4 @@ data_provision_year: "2006년, 2008년, 2010년, 2012년, 2014년, 2016년~2020�
 data_preparation_year: "2006년, 2008년, 2010년, 2012년, 2014년, 2016년~2020년"
 data_download: "2022년 6월 20일"
 data_generation_cycle: "1년, 2년"
-update_cycle: "-"
+#update_cycle: "-"
