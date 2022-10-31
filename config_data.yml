@@ -8,7 +8,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - ko
-#  - en
+#  - en 
 
 # Destination directory
 # ---------------------
