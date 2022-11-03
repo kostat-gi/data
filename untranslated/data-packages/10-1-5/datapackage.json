@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "시도",
+            "name": "A. 시도",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
             }
           },
           {
-            "name": "시군구",
+            "name": "B. 시군구",
             "type": "string",
             "constraints": {
               "enum": [
