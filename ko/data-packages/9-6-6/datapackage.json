@@ -11,31 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "구분",
+            "name": "A. 시도",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "아파트-월세",
-                "아파트-전세",
-                "주택-월세",
-                "주택-전세"
+                "0.전국",
+                "1.수도권",
+                "2.서울특별시",
+                "3.인천광역시",
+                "4.경기도"
               ]
             },
-            "title": "구분"
+            "title": "A. 시도"
           },
           {
-            "name": "시군구",
+            "name": "B. 시군구",
             "type": "string",
             "constraints": {
               "enum": [
@@ -102,22 +93,31 @@
                 "화성시"
               ]
             },
-            "title": "시군구"
+            "title": "B. 시군구"
           },
           {
-            "name": "시도",
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "구분",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0.전국",
-                "1.수도권",
-                "2.서울특별시",
-                "3.인천광역시",
-                "4.경기도"
+                "아파트-월세",
+                "아파트-전세",
+                "주택-월세",
+                "주택-전세"
               ]
             },
-            "title": "시도"
+            "title": "구분"
           }
         ]
       }
