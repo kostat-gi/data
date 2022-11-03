@@ -13,9 +13,9 @@ data_start_values:
     value: 조혼인율
   - field: 구분
     value: 조이혼율
-  - field: 시도
+  - field: A. 시도
     value: 0.전국
-  - field: 시도
+  - field: A. 시도
     value: 1.수도권
 embedded_feature_footer: ''
 embedded_feature_html: ''
