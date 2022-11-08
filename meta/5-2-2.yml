@@ -10,8 +10,8 @@ statistics_name: >-
   https://www.ktdb.go.kr/www/selectTrnsportTreeView.do?key=32
 computation_units: "분"
 computation_coverage: "시군구"
-data_provision_year: 2016년 ~ 2019년
+#data_provision_year: 2016년 ~ 2019년
 data_preparation_year: 2016년 ~ 2019년
-data_download: "2022년 7월 11일"
+#data_download: "2022년 7월 11일"
 data_generation_cycle: "1년"
 #update_cycle: "-"
