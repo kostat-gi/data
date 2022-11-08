@@ -7,7 +7,7 @@ indicator_definition: 인구성장률은 자연증가율과 사회적 증가율�
 indicator_importance: 한 국가의 인구 및 인구성장률은 그 국가의  장·단기 국가발전 계획수립에 있어 가장 기본적이고 근원적인 기초자료로서 인구와 관련된 각종 경제·사회 정책을 수립하는데 활용됨
 computation_calculations: (당해년 전체인구수÷2001년 전체인구수) x 100
 statistics_name: OECD.stat > Regions and Cities > Regional Statistics > Regional Demography > demographic indicators by access to city typology. country level
-computation_units: "%"
+computation_units: "2001년 = 100"
 #computation_coverage: 2001년 ~ 2021년
 #data_provision_year: 2001년 ~ 2021년
 data_preparation_year: 2001년 ~ 2021년
