@@ -8,7 +8,7 @@ computation_calculations: (해당연도 창업기업 수 - 전년도 창업기�
 statistics_name: 중소벤처기업부, 「창업기업동향」<br>https://kosis.kr/statHtml/statHtml.do?orgId=142&tblId=DT_142N_F204&conn_path=I3
 computation_units: "%"
 computation_coverage: 시도
-data_provision_year: "2017년 ~ 2021년"
+#data_provision_year: "2017년 ~ 2021년"
 data_preparation_year: "2017년 ~ 2021년"
 #data_download: "-"
 data_generation_cycle: 매년
