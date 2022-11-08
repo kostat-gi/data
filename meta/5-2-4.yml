@@ -10,7 +10,7 @@ computation_calculations: >-
 statistics_name: >-
   주택금융연구원, 「주택금융 및 보금자리론 실태조사」<br>
   https://www.hf.go.kr/research/portal/stat/easyStatPage/T188183126881844.do
-computation_units: "%"
+computation_units: "배"
 computation_coverage: "시도"
 #data_provision_year: 2004년 ~ 2022년 5월
 data_preparation_year: 2004년 ~ 2021년
