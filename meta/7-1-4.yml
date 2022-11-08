@@ -3,7 +3,7 @@ computation_definitions: >-
   <b>하위영역</b>: 환경
 indicator_name_sub: 최종에너지 소비량
 indicator_definition: 최종에너지 소비부문에서 사용하는 에너지 사용량
-indicator_importance: 1차에너지 소비가 많을수록 온실가스 배출도 늘어남<br>❍ 에너지 수요전망, 에너지 효율 분석 등 각종 에너지 정책 수립을 위한 기초자료를 제공함
+indicator_importance: 1차에너지 소비가 많을수록 온실가스 배출도 늘어남<br>에너지 수요전망, 에너지 효율 분석 등 각종 에너지 정책 수립을 위한 기초자료를 제공함
 computation_calculations: 최종소비자가 직접 사용한 1차 에너지+전환과정을 거친 2차 에너지의 합
 statistics_name: >-
   에너지경제연구원(지역에너지통계연보)<br>
