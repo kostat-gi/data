@@ -8,7 +8,7 @@ computation_calculations: 도로연장(㎞) / (지역면적1,000(㎢)*인구(천
 statistics_name: 국토교통부, 「도로현황」<br>https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_966&conn_path=I3
 computation_units: "km/(면적*인구)½"
 computation_coverage: 시도
-data_provision_year: 2005년~2021년
+#data_provision_year: 2005년~2021년
 data_preparation_year: 2005년~2021년
 #data_download: "-"
 #data_generation_cycle: "-"
