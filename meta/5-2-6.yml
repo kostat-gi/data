@@ -11,8 +11,8 @@ statistics_name: >-
   (2020년) https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_6825&conn_path=I3
 computation_units: "호"
 computation_coverage: "시도"
-data_provision_year: 2009년~2020년
+#data_provision_year: 2009년~2020년
 data_preparation_year: 2009년~2020년
-data_download: "2022년 6월 20"
+#data_download: "2022년 6월 20"
 data_generation_cycle: "1년"
 update_cycle: "익년 12월"
