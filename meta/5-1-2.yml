@@ -10,7 +10,7 @@ statistics_name: >-
   https://lofin.mois.go.kr/websquare/websquare.jsp?w2xPath=/ui/portal/stat/local/budget/sd002_bg500.xml
 computation_units: "천원"
 computation_coverage: "시군구"
-data_provision_year: 2012년 ~ 2020년
+#data_provision_year: 2012년 ~ 2020년
 data_preparation_year: 2012년 ~ 2020년
 #data_download: "-"
 data_generation_cycle: "1년"
