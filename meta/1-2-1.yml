@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 자원<br>
   <b>하위영역</b>: 물적 자원
-indicator_name_sub: 국토계수당 도로연장률
+indicator_name_sub: 국토계수당 도로연장
 indicator_definition: 도로연장이란 도로의 총길이를 나타내는 것으로 고속국도, 일반국도, 특별·광역시도, 지방도, 시·군·구도의 연장을 말함
 indicator_importance: 도로연장이란 도로의 총길이를 나타내는 것으로 고속국도, 일반국도, 특별·광역시도, 지방도, 시·군·구도의 연장을 말함
 computation_calculations: 도로연장(㎞) / (지역면적1,000(㎢)*인구(천명))½
