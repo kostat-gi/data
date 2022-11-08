@@ -7,8 +7,7 @@ indicator_importance: 해당 지역 교육 안에서 학교생활에 대한 주�
 computation_calculations: >-
   (“매우 만족”, “대체로 만족” 응답자수÷전체 응답자수)×100<br>
   * 응답자 수: 가구원 가중값 적용<br>
-  [참고사항]<br>
-  ○ 2018년 중, 고등학교 재학생 대상으로 변경
+  [참고사항] 2018년 중, 고등학교 재학생 대상으로 변경
 statistics_name: >-
   통계청, 「사회조사」<br>
   (시도 자료) https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSED019R&conn_path=I3<br>
