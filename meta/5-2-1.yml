@@ -10,8 +10,8 @@ statistics_name: >-
   http://stat.molit.go.kr/portal/cate/statFileView.do?hRsId=327&hFormId
 computation_units: "%"
 computation_coverage: "시도"
-data_provision_year: 2006년, 2008년, 2010년, 2012년, 2014년, 2016년~2020년
+#data_provision_year: 2006년, 2008년, 2010년, 2012년, 2014년, 2016년~2020년
 data_preparation_year: 2006년, 2008년, 2010년, 2012년, 2014년, 2016년~2020년
-data_download: "2022년 7월 14일"
+#data_download: "2022년 7월 14일"
 data_generation_cycle: "1년, 2년"
 #update_cycle: "-"
