@@ -8,10 +8,10 @@ computation_calculations: (R&D 투자금액/GRDP) x 100<br> * 실질, 2015년 �
 statistics_name: >-
   통계청, 「지역소득」<br>
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C83&conn_path=I3
-computation_units: "백만원, %p"
+computation_units: "%"
 computation_coverage: 시도
 #data_provision_year: 2015년 ~ 2020년
-data_preparation_year: 2001년 ~ 2019년
+data_preparation_year: 2001년 ~ 2020년
 #data_download: ""
 data_generation_cycle: 1년
 #update_cycle: "-"
