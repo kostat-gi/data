@@ -11,7 +11,7 @@ statistics_name: >-
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20621&conn_path=I3
 computation_units: "%"
 computation_coverage: "시군구"
-data_provision_year: 2000년 ~ 2021년
+#data_provision_year: 2000년 ~ 2021년
 data_preparation_year: 2001년 ~ 2020년 
 #data_download: "-"
 data_generation_cycle: "1년"
