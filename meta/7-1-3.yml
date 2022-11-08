@@ -11,8 +11,8 @@ statistics_name: >-
   (분모) https://home.kepco.co.kr/kepco/KO/ntcob/ntcobView.do?boardSeq=21051405&parnScrpSeq=21047466&depth=0&boardNo=0&boardCd=BRD_000099&replyRole=&pageIndex=1&searchKeyword=&searchCondition=&menuCd=FN05030103&sati_cmnt=%ED%86%B5%EA%B3%84%EA%B4%80%EB%A0%A8+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD+%EB%B0%8F+%EA%B8%B0%ED%83%80%EC%82%AC%ED%95%AD+%EC%9E%85%EB%A0%A5&sati_email=&chk_sati_cmnt_def=1
 computation_units: "%"
 computation_coverage: "시도"
-data_provision_year: 2009년~2020년
+#data_provision_year: 2009년~2020년
 data_preparation_year: 2009년~2020년
-data_download: "2022년 7월 8일"
+#data_download: "2022년 7월 8일"
 data_generation_cycle: "1년"
 #update_cycle: "-"
