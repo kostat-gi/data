@@ -12,7 +12,7 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시도"
 #data_provision_year: 2001년~2019년
-data_preparation_year: 2001년~2019년
+data_preparation_year: 2001년~2020년
 #data_download: "-"
 data_generation_cycle: "1년"
 #update_cycle: "-"
