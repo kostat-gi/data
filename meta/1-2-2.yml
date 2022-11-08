@@ -11,7 +11,7 @@ statistics_name: >-
   미디어통계포털(stat.kisdi.re.kr) > 한국미디어패널조사 > 원시자료/유저가이드 
 computation_units: "%"
 computation_coverage: 시도
-data_provision_year: 2015년 ~ 2020년
+#data_provision_year: 2015년 ~ 2020년
 data_preparation_year: 2015년 ~ 2020년
 #data_download: "-"
 data_generation_cycle: 매년
