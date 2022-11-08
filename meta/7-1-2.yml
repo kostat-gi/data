@@ -13,8 +13,8 @@ statistics_name: >-
   (대기환경연보) https://www.airkorea.or.kr/web/detailViewDown?pMENU_NO=125
 computation_units: "μg/m³"
 computation_coverage: "시군구"
-data_provision_year: 2015년 ~ 2020년
+#data_provision_year: 2015년 ~ 2020년
 data_preparation_year: 2015년 ~ 2020년
-data_download: "/ 2022년 5월 17일"
+#data_download: "/ 2022년 5월 17일"
 data_generation_cycle: "월"
 #update_cycle: "-"
