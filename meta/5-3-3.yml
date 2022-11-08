@@ -14,7 +14,7 @@ statistics_name: >-
   (수도권 자료 - 사회조사 MD 활용) https://mdis.kostat.go.kr/index.do
 computation_units: "%"
 computation_coverage: "시도"
-data_provision_year: 2000년, 2004년, 2008년~2020년(짝수년)
+#data_provision_year: 2000년, 2004년, 2008년~2020년(짝수년)
 data_preparation_year: >-
   2012년~2020년(짝수년)<br>
   * 2011년 부터 조사 대상 변경: 15세 이상에서 13세 이상으로 확대
