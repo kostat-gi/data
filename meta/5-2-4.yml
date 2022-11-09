@@ -8,7 +8,7 @@ computation_calculations: >-
   평균 주택 가격÷평균 가구 소득<br>
   수도권 자료: 원자료 입수 불가,  ∑{시도 PIR×(시도 가구당 연평균 경상소득/수도권 가구당 연평균 경상소득)}으로 산출 
 statistics_name: >-
-  주택금융연구원, 「주택금융 및 보금자리론 실태조사」<br>
+  주택금융연구원 「주택금융 및 보금자리론 실태조사」, 통계청 「가계금융복지조사」 <br>
   https://www.hf.go.kr/research/portal/stat/easyStatPage/T188183126881844.do
 computation_units: "배"
 computation_coverage: "시도"
