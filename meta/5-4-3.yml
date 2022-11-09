@@ -5,10 +5,10 @@ indicator_name_sub: 고령인구 비율
 indicator_definition: 전체 인구에서 65세이상 인구가 차지하는 비율로 인구의 노령화 정도
 indicator_importance: 지역성장력 약화, 재정 건전성 악화와 밀접한 관계가 있음
 computation_calculations: >-
-  (65세이상 인구 수÷전체 인구 수)×100<br>* 인구: 행정안전부, 주민등록인구현황(거주자, 거주불명자, 재외국민 포함)
+  (65세이상 인구 수÷전체 인구 수)×100
 statistics_name: >-
-  행정안전부(주민등록인구현황)<br>
-  https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20631&conn_path=I3
+  통계청 「장래인구추계」<br>
+  https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BPA001&conn_path=I3 
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 2000년 ~ 2021년
