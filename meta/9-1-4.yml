@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 건강
 indicator_name_sub: 스트레스 인지율
-indicator_definition: 평소 일상생활 중 스트레스르 "대단히 많이" 또는 "많이" 느끼는 사람 비율
+indicator_definition: 평소 일상생활 중 스트레스를 "대단히 많이" 또는 "많이" 느끼는 사람 비율
 indicator_importance: 정신건강을 측정하는데 대표적
 computation_calculations: >-
   (“대단히 많이 느낀다 ”, “많이 느끼는 편이다” 응답자수÷전체 응답자수)×100<br>
