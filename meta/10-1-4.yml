@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 공동생활<br>
   <b>하위영역</b>: 가족/친밀성
-indicator_name_sub: 유아 천명 당 보육시설 수
+indicator_name_sub: 유아 천 명 당 보육시설 수
 indicator_definition: 유아 천 명당 어린이집의 수
 indicator_importance: 유아 돌봄 지원 관련 지표로, 보육정책 수립의 기초자료로 활용이 가능함
 computation_calculations: (총 보육시설수÷주민등록인구(0~5세))×1,000
