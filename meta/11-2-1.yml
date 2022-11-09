@@ -8,7 +8,7 @@ computation_calculations: (범죄발생건수÷주민등록인구)×1,000
 statistics_name: >-
   경찰청(경찰통계연보), 행정안전부(주민등록인구현황)<br>
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL3001&conn_path=I2
-computation_units: "건/1000명"
+computation_units: "건"
 computation_coverage: "시도"
 #data_provision_year: "2004년 ~ 2020년"
 data_preparation_year: "2004년 ~ 2020년"
