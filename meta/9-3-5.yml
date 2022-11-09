@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 일
 indicator_name_sub: 실업률
-indicator_definition: 경제활동인구 중에서 직장이 없는 사람들의 비율
+indicator_definition: 경제활동인구 중 실업자가 차지하는 비율
 indicator_importance: 지역 노동시장의 조건을 나타내며, 거시경제 분석과 인력자원의 개발정책 수립에 필요한 기초 자료를 제공함
 computation_calculations: (실업자÷경제활동인구)×100
 statistics_name: >-
