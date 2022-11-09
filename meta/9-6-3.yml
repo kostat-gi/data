@@ -5,7 +5,7 @@ indicator_name_sub: 자가 보유율
 indicator_definition: 전체 가구 대비 자기 집을 보유한 가구의 비중
 indicator_importance: 지역별 소유 가구의 특성을 파악하여, 세밀한 지역 주택시장 분석이 가능함
 computation_calculations: >-
-  (개인소유주택)÷(총주택))×100<br>
+  (개인소유주택÷총주택)×100<br>
   * 개인소유주택: 동일시군구 거주자 소유주택 + 동일시도내 타시군구 거주자 소유 주택 + 타시도 거주자 소유주택<br>
   * 총주택: 단독주택, 아파트, 연립주택, 다세대주택, 비거주용건물내 주택
 statistics_name: >-
