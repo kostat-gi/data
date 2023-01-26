@@ -10,8 +10,8 @@ statistics_name: >-
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1OH0402&conn_path=I2
 computation_units: "%"
 computation_coverage: "2016년 시도, 2016년~ 시군구"
-#data_provision_year: 2016년~2020년
-data_preparation_year: 2016년~2020년
+#data_provision_year: 2016년~2021년
+data_preparation_year: 2016년~2021년
 #data_download: "-"
 data_generation_cycle: "1년"
 update_cycle: "익년 12월"
