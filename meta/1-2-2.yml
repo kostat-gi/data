@@ -7,12 +7,12 @@ indicator_importance: 우리나라의 인터넷 利用者 규모(인터넷 이�
  방송통신 관련 국제지수 산출을 위한 주요 평가항목으로 널리 활용됨
 computation_calculations: (최근 1개월 내 인터넷을 이용한 적이 있다고 응답한 응답자÷전체 응답자)×100
 statistics_name: >-
-  과학기술정보통신부 「인터넷이용실태조사」<br>
-  미디어통계포털(stat.kisdi.re.kr) > 한국미디어패널조사 > 원시자료/유저가이드 
+  https://kosis.kr/statHtml/statHtml.do?orgId=127&tblId=DT_MH001_MI002&vw_cd=MT_ZTITLE&list_id=N1_23&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE <br>
+  MDIS(https://mdis.kostat.go.kr/index.do) > 자료이용 > 다운로드 서비스 > 과학기술정보통신부 - 인터넷이용조사
 computation_units: "%"
 computation_coverage: 시도
-#data_provision_year: 2015년 ~ 2020년
-data_preparation_year: 2015년 ~ 2020년
+#data_provision_year: 2015년 ~ 2021년
+data_preparation_year: 2015년 ~ 2021년
 #data_download: "-"
 data_generation_cycle: 매년
 #update_cycle: "-"
