@@ -12,8 +12,8 @@ statistics_name: >-
   사회조사 MD 활용(https://mdis.kostat.go.kr/index.do)
 computation_units: "%"
 computation_coverage: 시도
-#data_provision_year: 2011년 ~ 2020년
-data_preparation_year: 2011년 ~ 2021년
+#data_provision_year: 2011년 ~ 2022년
+data_preparation_year: 2011년 ~ 2022년
 #data_download: "-"
 data_generation_cycle: 1년
 update_cycle: "조사기준 년도 11월"
