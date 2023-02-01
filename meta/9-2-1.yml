@@ -14,8 +14,8 @@ statistics_name: >-
   (수도권 자료 - 사회조사 MD 활용) https://mdis.kostat.go.kr/index.do
 computation_units: "%"
 computation_coverage: "시도"
-#data_provision_year: 2004년, 2008년, 2010년~ 2020년(짝수년)
-data_preparation_year: 2012년, 2014년, 2016년, 2018년, 2020년
+#data_provision_year: 2004년, 2008년, 2010년~ 2022년(짝수년)
+data_preparation_year: 2012년, 2014년, 2016년, 2018년, 2020년, 2022년
 #data_download: "2022년 6월 3일 / 2020년 12월 22일"
 data_generation_cycle: "2년"
 update_cycle: "조사기준년도 11월"
