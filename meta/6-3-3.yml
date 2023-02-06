@@ -10,8 +10,8 @@ statistics_name: >-
   https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1HDAA01&conn_path=I2
 computation_units: "만원"
 computation_coverage: "시도"
-#data_provision_year: 2017년~2021년
-data_preparation_year: 2017년~2021년
+#data_provision_year: 2017년~2022년
+data_preparation_year: 2017년~2022년
 #data_download: "/ 2021년 12월 16일"
 data_generation_cycle: "1년"
 update_cycle: "조사기준년도 12월"
