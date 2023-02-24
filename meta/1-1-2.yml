@@ -6,7 +6,7 @@ indicator_definition: 경제활동인구 중 대졸 이상의 학력을 가진 �
 indicator_importance: 국민 가운데 대학을 졸업한 인구가 많다는 것은 개인 차원에서는 교육기회가 충족되고 국가 차원에서는 우수한 인적자원을 많이 보유하고 있음을 의미함
 computation_calculations: (대졸 이상 경제활동인구수/전체 경제활동인구) x 100
 statistics_name: >-
-  통계청「경제활동인구조사」<br>
+  통계청 「경제활동인구조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7016S&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: 권역
