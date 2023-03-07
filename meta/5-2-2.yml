@@ -8,7 +8,7 @@ computation_calculations: >-
   시설별 대중교통/도보 접근시간의 평균<br>
   * 대중교통접근성: 일평균(06-20시), 대중교통/도보 기준  * 수도권 값: 66개 시군구의 평균  * 120분 이상은 120분으로 계산
 statistics_name: >-
-  한국교통연구원 「교통접근성지표」
+  한국교통연구원 「교통접근성지표」<br>
   <a href="https://www.ktdb.go.kr/www/selectTrnsportTreeView.do?key=32" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "분"
 computation_coverage: "시군구"
