@@ -7,8 +7,8 @@ indicator_importance: 지자체등에서 임대주택의 건설실적, 재고, �
 computation_calculations: 공공부문 임대주택의 합
 statistics_name: >-
   국토교통부 「주거실태조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_5525&conn_path=I2" target="_blank">&lt;(2009년~2019년) URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_6825&conn_path=I3" target="_blank">&lt;(2020년) URL 바로가기&gt;</a>
+  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_5525&conn_path=I2" target="_blank">(2009년~2019년) &lt;URL 바로가기&gt;</a><br>
+  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_6825&conn_path=I3" target="_blank">(2020년) &lt;URL 바로가기&gt;</a>
 computation_units: "호"
 computation_coverage: "시도"
 #data_provision_year: 2009년~2020년
