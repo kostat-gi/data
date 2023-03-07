@@ -18,4 +18,4 @@ computation_coverage: "시군구"
 data_preparation_year: 1990년 ~ 2020년 (5년 주기)
 #data_download: "2022년 7월 11일"
 data_generation_cycle: "5년"
-update_cycle: "조사기준년도 익년 12월"
+#update_cycle: "조사기준년도 익년 12월"
