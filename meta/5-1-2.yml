@@ -6,8 +6,8 @@ indicator_definition: 지방자치단체의 자체수입 예산액을 자치단�
 indicator_importance: 자치구별 인구를 고려한 실질적 재정격차를 알 수 있는 지표
 computation_calculations: (자체수입÷주민등록인구)×100<br> * 인구：행정안전부, 주민등록인구현황(전년도 12월 기준)
 statistics_name: >-
-  행정안전부(지방재정365), 「주민등록인구현황」<br>
-  https://lofin.mois.go.kr/websquare/websquare.jsp?w2xPath=/ui/portal/stat/local/budget/sd002_bg500.xml
+  행정안전부 「지방재정365」, 「주민등록인구현황」<br>
+  <a href="https://lofin.mois.go.kr/websquare/websquare.jsp?w2xPath=/ui/portal/stat/local/budget/sd002_bg500.xml" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "천원"
 computation_coverage: "시군구"
 #data_provision_year: 2012년 ~ 2020년
