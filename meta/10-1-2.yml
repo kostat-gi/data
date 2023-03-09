@@ -4,7 +4,8 @@ computation_definitions: >-
 indicator_name_sub: 가족관계만족도
 indicator_definition: 전반적인 가족과의 관계에 만족을 느끼는 사람의 비율
 indicator_importance: 사회조직의 기본단위로 사회생활의 핵심구성요소가 되는 가족과의 전반적인 관계에 대한 주관적 의식파악이 가능함
-computation_calculations: ('매우 만족', '약간 만족' 응답자÷전체 응답자)×100
+computation_calculations: >-
+  ('매우 만족', '약간 만족' 응답자÷전체 응답자)×100
 statistics_name: >-
   통계청 「사회조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSFA139R&conn_path=I3" target="_blank">(시도 자료) &lt;URL 바로가기&gt;</a><br>
