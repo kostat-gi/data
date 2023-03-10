@@ -9,9 +9,9 @@ computation_calculations: >-
   * 소요시간별: 국가지표체계 도수분포표 산출법 참고
 statistics_name: >-
   통계청 「인구총조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1004&conn_path=I3" target="_blank">(2020) &lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1504&conn_path=I2" target="_blank">(2015) &lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1004&conn_path=I3" target="_blank">(2010) &lt;URL 바로가기&gt;</a>
+  (2020) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1004&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (2015) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1504&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (2010) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1004&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "분"
 computation_coverage: "시군구"
 #data_provision_year: 1990년 ~ 2020년 (5년 주기)
