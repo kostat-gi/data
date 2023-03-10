@@ -8,7 +8,7 @@ computation_calculations: >-
   {(당해년 12월 전/월세 가격-’21.6월 전/월세 가격)÷’21.6월 전/월세 가격}×100
 statistics_name: >-
   한국부동산원 「전국주택가격동향조사」<br>
-  부동산통계정보(https://www.reb.or.kr/r-one/main.do) > 전국주택가격동향조사
+  <a href="https://www.reb.or.kr/r-one/main.do" target="_blank">부동산통계정보</a> > 전국주택가격동향조사
 computation_units: "점"
 computation_coverage: "시군구"
 #data_provision_year: "월세: 2015년~2021년 / 전세: 2003년 ~ 2021년"
