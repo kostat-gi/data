@@ -10,7 +10,7 @@ computation_calculations: >-
 statistics_name: >-
   보건복지부 「지역사회건강조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202002E&conn_path=I2" target="_blank">(시군구 자료) &lt;URL 바로가기&gt;</a><br>
-  (전국/수도권 자료) 질병관리청 > 지역사회건강조사 > 자료실 > 보고서 > 지역건강통계 한눈에 보기
+  (전국/수도권 자료) <a href="https://chs.kdca.go.kr/chs/stats/statsMain.do" target="_blank">질병관리청 지역사회건강조사</a> > 자료실 > 보고서 > 지역건강통계 한눈에 보기
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 2008년 ~ 2020년
