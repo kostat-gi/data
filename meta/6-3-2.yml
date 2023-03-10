@@ -7,8 +7,8 @@ indicator_importance: 지역주민의 평균적인 소득수준을 나타내며 
 computation_calculations: 당해년 총 경상소득÷가구 수
 statistics_name: >-
   통계청, 한국은행, 금융감독원 「가계금융복지조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1HDBA01&conn_path=I3" target="_blank">(경상소득) &lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BZ0505&conn_path=I3" target="_blank">(가구 수) &lt;URL 바로가기&gt;</a>
+  (경상소득) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1HDBA01&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (가구 수) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BZ0505&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "만원"
 computation_coverage: "시도"
 #data_provision_year: 1995년~2021년
