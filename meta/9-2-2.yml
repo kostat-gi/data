@@ -8,7 +8,7 @@ computation_calculations: 재적학생수÷총 학급수
 statistics_name: >-
   한국교육개발원 「교육기본통계」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15001&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (수도권 자료) 교육통계서비스(https://kess.kedi.re.kr/index) > 알림 서비스 > 주요요청자료 > 주제별 공개데이터
+  (수도권 자료) <a href="https://kess.kedi.re.kr/index" target="_blank">교육통계서비스 > 알림 서비스 > 주요요청자료 > 주제별 공개데이터
 computation_units: "명"
 computation_coverage: "시군구"
 #data_provision_year: 1999년~ 2022년
