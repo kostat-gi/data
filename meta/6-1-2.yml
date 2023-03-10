@@ -8,7 +8,7 @@ computation_calculations: (연구개발비÷실질GRDP)×100
 statistics_name: >-
   통계청 「지역소득」, 과학기술정보통신부 「연구개발활동조사」<br>
   (지역소득) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C81&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (연구개발활동조사) <a href="https://www.kistep.re.kr/reportDetail.es?mid=a10305010000&rpt_no=RES0220210050" target="_blank">&lt;URL 바로가기&gt;</a>
+  (연구개발활동조사) <a href="https://www.kistep.re.kr/reportList.es?mid=a10305060000&rpt_tp=831-001" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시도"
 #data_provision_year: 2001년~2019년
