@@ -7,9 +7,8 @@ indicator_importance: 사회의 구조적 특성과 사회통합 정도를 보�
 computation_calculations: (자살사망자 수÷주민등록연앙인구)×100,000
 statistics_name: >-
   통계청 「사망원인통계」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
+  (인구십만명당 자살률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (사망원인별 사망률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 1998년 ~ 2020년
