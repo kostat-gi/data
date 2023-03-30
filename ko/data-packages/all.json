@@ -5260,6 +5260,26 @@
             "title": "B. 시군구"
           },
           {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
