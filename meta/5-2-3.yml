@@ -1,14 +1,14 @@
 computation_definitions: >-
   <b>영   역</b>: 기초역량과 여건<br>
   <b>하위영역</b>: 주거/교통
-indicator_name_sub: 통근시간
+indicator_name_sub: 통근 시간
 indicator_definition: 거주지와 직장을 정기적으로 오가는 시간
 indicator_importance: 지역 내 근로자들이 근무 시설에 접근하는데 드는 거래비용을 반영하며, 정주여건과 생산 효율성 정도를 추정할 수 있는 지표
 computation_calculations: >-
   (소요시간별×통근인구)의 합÷통근인구의 합<br>
   * 소요시간별: 국가지표체계 도수분포표 산출법 참고
 statistics_name: >-
-  통계청 「인구총조사」<br>
+  *통계청 「인구총조사」<br>
   (2020) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA2004&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (2015) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1504&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (2010) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PA1004&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
