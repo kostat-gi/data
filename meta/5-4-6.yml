@@ -13,7 +13,7 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: "1993년~2021년<br> * 시도 단위: 1996년~  / 시군구 단위: 1998년~"
-data_preparation_year: 2001년 ~ 2021년
+data_preparation_year: 2001년 ~ 2022년
 #data_download: "/ 2022년 2월 16일"
 data_generation_cycle: "1년"
 #update_cycle: "익익년 8월 말"
