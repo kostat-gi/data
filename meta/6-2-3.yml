@@ -8,7 +8,7 @@ computation_calculations: 소정 근로시간+초과 근로시간
 statistics_name: >-
   *고용노동부 「사업체노동력조사」<br>
   (2010~2019년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=118&tblId=DT_118N_MON049&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (2020~2022년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15005E_1&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a>
+  (2020~2022년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15005E_1&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (상용근로자) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7035S&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "시간"
 computation_coverage: "시도"
