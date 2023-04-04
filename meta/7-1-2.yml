@@ -8,7 +8,7 @@ computation_calculations: >-
   월별 대기오염도의 평균<br>
   * 수도권 값 : 시군구 월별데이터의 합의 평균, 전국/시도는 대기환경연보 자료
 statistics_name: >-
-  환경부 「대기오염도현황」, 「대기환경 연보」<br>
+  *환경부 「대기오염도현황」, 「대기환경 연보」<br>
   (대기오염도현황) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=106&tblId=DT_106N_03_0200176&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (대기환경연보) <a href="https://www.airkorea.or.kr/web/detailViewDown?pMENU_NO=125" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "μg/m³"
