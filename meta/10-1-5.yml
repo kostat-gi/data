@@ -7,7 +7,7 @@ indicator_importance: 인구규모와 구조의 변동요인인 혼인 및 이�
 computation_calculations: (연간 혼인(이혼) 건수÷주민등록연앙인구)×1,000
 statistics_name: >-
   통계청 「인구동향조사」<br>
-  https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B8000I&conn_path=I3
+  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B8000I&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "건"
 computation_coverage: "시군구"
 #data_provision_year: "-"
