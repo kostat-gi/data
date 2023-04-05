@@ -9,8 +9,8 @@ computation_calculations: >-
   * 인구총조사 등록센서스 내국인 기준
 statistics_name: >-
   *통계청 「인구총조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL12701&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1503&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a>
+  (독거노인가구비율) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL12701&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (연령 및 성별 인구) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1503&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: "-"
