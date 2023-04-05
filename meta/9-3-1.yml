@@ -7,12 +7,14 @@ indicator_importance: 근로자의 일자리 질을 판단하는데 핵심 지�
 computation_calculations: >-
   상용근로자 정액급여+상용 근로자 초과급여
 statistics_name: >-
-  고용노동부 「사업체노동력조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15006&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
+  *고용노동부 「사업체노동력조사」<br>
+  (월평균 임금) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15006&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (상용근로자 4월기준) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7035S&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "원"
 computation_coverage: "시도"
 #data_provision_year: "-"
 #data_preparation_year: "-"
 #data_download: "-"
 data_generation_cycle: "1년"
+data_preparation_year: "2010년~2022년"
 #update_cycle: "-"
