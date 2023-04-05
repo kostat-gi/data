@@ -8,7 +8,7 @@ computation_calculations: (자살사망자 수÷주민등록연앙인구)×100,0
 statistics_name: >-
   *통계청 「사망원인통계」<br>
   (인구십만명당 자살률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (사망원인별 사망률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
+  (사망원인별 사망률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (주민등록연앙인구) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040M5&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시군구"
