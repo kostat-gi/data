@@ -9,7 +9,7 @@ computation_calculations: >-
   * 응답자: 가구원 가중값 적용      ** 2019년은 신체계측 값 / 나머지는 자가보고
 statistics_name: >-
   *보건복지부 「지역사회건강조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202002E&conn_path=I2" target="_blank">(시군구 자료) &lt;URL 바로가기&gt;</a><br>
+  (시군구 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202002E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (전국/수도권 자료) <a href="https://chs.kdca.go.kr/chs/stats/statsMain.do" target="_blank">질병관리청 지역사회건강조사</a> > 자료실 > 보고서 > 지역건강통계 한눈에 보기
 computation_units: "%"
 computation_coverage: "시군구"
