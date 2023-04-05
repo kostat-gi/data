@@ -7,7 +7,7 @@ indicator_importance: 일자리의 질적인 측면을 근로자가 주관적으
 computation_calculations: >-
   ('매우 만족', '대체로 만족' 응답자÷전체 응답자)×100<br>* 응답자: 가구원 가중값 적용
 statistics_name: >-
-  통계청 「사회조사」<br>
+  *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSLA0812R&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (수도권 자료) 사회조사 MD 활용 <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
