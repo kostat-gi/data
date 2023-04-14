@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           },
           {
@@ -76,6 +76,7 @@
                 "연천군",
                 "영등포구",
                 "오산시",
+                "옹진군",
                 "용산구",
                 "용인시",
                 "은평구",
