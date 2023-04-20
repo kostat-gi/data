@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 자원<br>
   <b>하위영역</b>: 물적 자원
-indicator_name_sub: 국토계수당 도로연장률
+indicator_name_sub: 국토계수당 도로연장
 indicator_definition: 국토계수(면적과 인구를 동시에 고려한 계수)당 도로의 총길이
 indicator_importance: 국가 교통망의 중추인 도로보급률 현황을 권역별로 비교하여 도로 정책 수립의 기초자료로 활용됨
 computation_calculations: "도로연장(㎞)÷{지역면적1,000(㎢)x인구(천명)}½"
