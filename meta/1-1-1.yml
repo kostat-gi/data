@@ -7,11 +7,11 @@ indicator_importance: 인구 및 인구의 증감률은 그 국가의 장ㆍ단�
 computation_calculations: (당해년 전체인구수÷2001년 전체인구수) x 100
 statistics_name: OECD「Regions and Cities」
 statistics_name: <a href="https://stats.oecd.org" target="_blank">OECD.stat</a> > Regions and Cities > Regional Statistics > Regional Demography > demographic indicators by access to city typology. country level
-computation_units: "%"
+computation_units: 2001년=100
 computation_coverage: 권역
 #computation_coverage: 2001년 ~ 2021년
 #data_provision_year: 2001년 ~ 2021년
-data_preparation_year: 2001년 ~ 2021년
+data_preparation_year: 2001년 ~ 2022년
 data_generation_cycle: 1년
 #data_download: 2022년 5월 19일
 #update_cycle: "-"
