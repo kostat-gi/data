@@ -11,7 +11,7 @@ statistics_name: >-
 computation_units: km/√면적x인구
 computation_coverage: 권역
 #data_provision_year: 2005년~2021년
-data_preparation_year: 2005년 ~ 2021년
+data_preparation_year: 2005년 ~ 2022년
 data_generation_cycle: 1년
 #data_download: "-"
 #data_generation_cycle: "-"
