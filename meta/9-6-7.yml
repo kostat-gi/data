@@ -8,9 +8,7 @@ computation_calculations: >-
   (자가 점유 가구÷일반가구)×100<br>
   *일반가구: 집단가구, 집단시설가구, 외국인가구 및 특별조사구 제외
 statistics_name: >-
-  통계청「인구총조사」<br>
-  #<a href="https://kosis.kr/statHtml/statHtml.do?orgId=DT_1PE1502&conn_path=I3" target="_blank">
-  #<a href="https://kosis.kr/statHtml/statHtml.do?orgId=DT_1PE2002&conn_path=I3" target="_blank">
+  통계청「인구총조사」
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: "월세: 2015년~2021년 / 전세: 2003년 ~ 2021년"
