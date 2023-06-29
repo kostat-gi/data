@@ -6604,30 +6604,6 @@
         ]
       },
       "title": "고령인구 비율"
-    },
-    {
-      "path": "9-6-7/data.csv",
-      "name": "9-6-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8-sig",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "자가 점유 가구 비율"
     }
   ]
 }
