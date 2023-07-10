@@ -1,0 +1,19 @@
+﻿computation_definitions: >-
+  <b>영   역</b>: 개인생활<br>
+  <b>하위영역</b>: 주거
+indicator_name_sub: 자가 점유 가구 비율
+indicator_definition: 전체 가구(일반 가구) 중 자신이 소유한 주택에 살고 있는 가구의 비율
+indicator_importance: 지역별 자신이 소유한 주택에 살고 있는 가구의 특성을 파악하여, 세밀한 지역 주택시장 분석이 가능함
+computation_calculations: >-
+  (자가 점유 가구÷일반가구)×100<br>
+  *일반가구: 집단가구, 집단시설가구, 외국인가구 및 특별조사구 제외
+statistics_name: >-
+  *통계청「인구총조사」<br>
+  (2015년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PE1502&conn_path=I3" target="_blank"><URL 바로가기></a>
+  (2020년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PE2002&conn_path=I3" target="_blank"><URL 바로가기></a>
+computation_units: "%"
+computation_coverage: "시군구"
+#data_provision_year: "월세: 2015년~2021년 / 전세: 2003년 ~ 2021년"
+data_preparation_year: "2005~2010년(전수), 2015년~2020년(표본)"
+data_generation_cycle: "5년"
+#update_cycle: "-"
