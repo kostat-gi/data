@@ -6,7 +6,7 @@ indicator_definition: 주관적 건강 수준이 좋다고 생각하는 사람�
 indicator_importance: 개인의 건강에 대한 주관적 인식을 파악해 건강 관련 정책 및 연구의 기초자료로 활용이 가능
 computation_calculations: >-
   ('매우 좋음', '좋음' 응답자÷전체 응답자)×100<br>
-  * 응답자: 가구원 가중값 적용
+  * 응답자: 가구원 가중값 적용 ** 전국은 시군구 중앙값
 statistics_name: >-
   *질병관리청 「지역사회건강조사」<br>
   (시군구 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21011E&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
@@ -14,7 +14,7 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 2008년 ~ 2020년
-data_preparation_year: 2008년 ~ 2021년
+data_preparation_year: 2008년 ~ 2022년
 #data_download: "2022년 6월 3일"
 data_generation_cycle: "1년"
 #update_cycle: "조사기준년도 익년3월"
