@@ -12,7 +12,7 @@ statistics_name: >-
 computation_units: "천㎡"
 computation_coverage: "시도"
 #data_provision_year: 2008년~2020년
-data_preparation_year: 2008년~2021년
+data_preparation_year: 2008년~2022년
 #data_download: "/ 2022년 7월 1일"
 data_generation_cycle: "1년"
 #update_cycle: "-"
