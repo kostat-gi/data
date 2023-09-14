@@ -11,7 +11,7 @@ statistics_name: >-
 computation_units: 백만원
 computation_coverage: 권역
 #data_provision_year: 2015년 ~ 2020년
-data_preparation_year: 2001년 ~ 2020년
+data_preparation_year: 2001년 ~ 2021년
 #data_download: "-"
 data_generation_cycle: 1년
 #update_cycle: "익익년 8월"
