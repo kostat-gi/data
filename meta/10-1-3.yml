@@ -12,7 +12,7 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: "-"
-data_preparation_year: "2005년, 2010년 2015~2021년"
+data_preparation_year: "2005년, 2010년 2015~2022년"
 #data_download: "2022년 6월 20일"
 data_generation_cycle: "1년( 2015년 이후 ~)"
 #update_cycle: "익년 9월"
