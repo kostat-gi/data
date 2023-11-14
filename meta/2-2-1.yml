@@ -4,8 +4,8 @@ computation_definitions: >-
 indicator_name_sub: 인구 백만 명당 특허 출원 건수
 indicator_definition: 인구 백만 명당 특허 출원 건수
 indicator_importance: 신기술 혹은 혁신의 결과를 제도적으로 인정받고자 하는 해당 권역의 혁신 활동에 대한 활발한 정도를 포괄적으로 나타냄
-computation_calculations: (특허 출원 건수÷인구 수)x1,000,000명
-statistics_name: 특허청 「지식재산권통계」<br>
+computation_calculations: (특허 출원 건수÷주민등록연양인구 수)x1,000,000명
+statistics_name: 특허청 「지식재산권통계」, 통계청 「인구동향조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202109E&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "건"
 computation_coverage: 권역
