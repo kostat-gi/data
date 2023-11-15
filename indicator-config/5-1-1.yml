@@ -30,7 +30,8 @@ indicator_number: '5.1.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: 1
+precision:
+  - decimals: 1
 reporting_status: complete
 sort: ''
 standalone: false
