@@ -7,7 +7,7 @@ indicator_importance: 지역성장력 약화, 재정 건전성 악화와 밀접�
 computation_calculations: >-
   (65세이상 인구÷전체 인구)×100
 statistics_name: >-
-  통계청 「장래인구추계」<br>
+  행정안전부 「주민등록인구현황」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20631&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시군구"
