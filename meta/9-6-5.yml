@@ -1,17 +1,17 @@
 computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 주거
-indicator_name_sub: 공공임대주택 수
-indicator_definition: 임대 또는 임대후, 분양 전환을 목적으로 공급하는 공공주택재고량의 합
-indicator_importance: 지자체등에서 임대주택의 건설실적, 재고, 분양전환실적등을 파악하여 주택정책수립에 필요한 기초자료를 제공함
-computation_calculations: 공공부문 임대주택의 합
+indicator_name_sub: 주택당 평균 거주인 수
+indicator_definition: 주택당 평균 거주인 수
+indicator_importance: 변화하는 가구 구성에 맞추어 주거환경의 질을 파악할 수 있으며, 문화관련 정책 수립 및 집행의 기초자료로 활용이 가능함
+computation_calculations: 총거주인 수÷거주인 1명 이상인 주택
 statistics_name: >-
-  국토교통부 「주거실태조사」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_6825&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
-computation_units: "호"
-computation_coverage: "시도"
-#data_provision_year: "2009년 ~ 2020년"
-data_preparation_year: "2009년 ~ 2021년"
+  통계청 「주택총조사」<br>
+  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JU1503&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
+computation_units: "명"
+computation_coverage: "시군구"
+#data_provision_year: "2015년 ~ 2020년"
+data_preparation_year: "2015년 ~ 2021년"
 #data_download: "2022년 6월 20일"
 data_generation_cycle: "1년"
-#update_cycle: "익년 12월"
+#update_cycle: "-"
