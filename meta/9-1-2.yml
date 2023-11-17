@@ -10,7 +10,7 @@ statistics_name: >-
   (인구십만명당 자살률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (사망원인별 사망률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E13&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (주민등록연앙인구) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040M5&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
-computation_units: "%"
+computation_units: "명"
 computation_coverage: "시군구"
 #data_provision_year: 1998년 ~ 2020년
 data_preparation_year: 2001년 ~ 2021년
