@@ -14,7 +14,7 @@ statistics_name: >-
 computation_units: "μg/m³"
 computation_coverage: "시군구"
 #data_provision_year: 2015년 ~ 2020년
-data_preparation_year: 2017년 ~ 2021년
+data_preparation_year: 2017년 ~ 2022년
 #data_download: "/ 2022년 5월 17일"
 data_generation_cycle: "1년"
 #update_cycle: "-"
