@@ -1,19 +1,18 @@
-﻿computation_definitions: >-
+computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 주거
-indicator_name_sub: 자가 점유 가구 비율
-indicator_definition: 전체 가구(일반 가구) 중 자신이 소유한 주택에 살고 있는 가구의 비율
-indicator_importance: 지역별 자신이 소유한 주택에 살고 있는 가구의 특성을 파악하여, 세밀한 지역 주택시장 분석이 가능함
+indicator_name_sub: 월세/전세 가격지수
+indicator_definition: 월세/전세 가격변동을 지수로 나타낸 수치
+indicator_importance: 주택시장의 동향파악, 주택정책 수립의 기초자료로 활용이 가능함
 computation_calculations: >-
-  (자가 점유 가구÷일반가구)×100<br>
-  *일반가구: 집단가구, 집단시설가구, 외국인가구 및 특별조사구 제외
+  {(당해년 12월 전/월세 가격-’21.6월 전/월세 가격)÷’21.6월 전/월세 가격}×100
 statistics_name: >-
-  *통계청「인구총조사」<br>
-  (2015년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PE1502&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (2020년) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1PE2002&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
-computation_units: "%"
+  한국부동산원 「전국주택가격동향조사」<br>
+  <a href="https://www.reb.or.kr/r-one/main.do" target="_blank">부동산통계정보</a> > 전국주택가격동향조사
+computation_units: "점"
 computation_coverage: "시군구"
 #data_provision_year: "월세: 2015년~2021년 / 전세: 2003년 ~ 2021년"
-data_preparation_year: "2005~2010년(전수), 2015년~2020년(표본)"
-data_generation_cycle: "5년"
+data_preparation_year: "월세: 2015년~2022년, 전세: 2003년 ~ 2022년"
+#data_download: "2022년 6월 20일"
+data_generation_cycle: "1년"
 #update_cycle: "-"
