@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 기초역량과 여건<br>
   <b>하위영역</b>: 주거/교통
 indicator_name_sub: 공공 임대 주택 수
-indicator_definition: 임대 또는 임대후, 분양 전환을 목적으로 공급하는 공공주택재고량의 합
+indicator_definition: 임대 또는 임대후, 분양 전환을 목적으로 공급하는 공공주택 재고량의 합
 indicator_importance: 지자체등에서 임대주택의 건설실적, 재고, 분양전환실적등을 파악하여 주택정책수립에 필요한 기초자료를 제공함
 computation_calculations: 공공부문 임대주택의 합
 statistics_name: >-
