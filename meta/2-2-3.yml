@@ -5,7 +5,7 @@ indicator_name_sub: >-
    지식집약 서비스 활동 근로자 비율
 indicator_definition: 지식집약 서비스 활동(정보통신, 금융, 전문과학 및 기술서비스, 교육서비스, 보건 및 사회복지, 예술활동 등)에 종사하는 근로자 비율
 indicator_importance: 지식집약적 서비스는 혁신활동 혹은 이를 지원하는 활동으로서 이에 종사하는 인력의 비율은 혁신활동에 직간접적으로 참여하는 인적 자원 비율을 나타냄
-computation_calculations: (지식집약 서비스 활동 취업자 수÷취업자)x100
+computation_calculations: (지식집약 서비스 산업 종사자 ÷ 총 종사자) x 100
 statistics_name: >-
   통계청 「전국사업체조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52C01&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
