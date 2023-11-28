@@ -5,7 +5,7 @@ indicator_name_sub: 건강관련 삶의 질(EQ-5D)
 indicator_definition: 건강관련 삶의 질의 5가지 차원(운동능력, 자기관리, 일상활동, 통증/불편, 불안/우울)의 기술체계를 종합한 지표 
 indicator_importance: 개인의 건강상태에 대한 주관적 지표로 건강관련 삶의 질을 대표함
 computation_calculations: >-
-  1-f(운동능력, 자기관리, 일상활동, 통증/불편, 불안/우울)
+  1 - f(운동능력, 자기관리, 일상활동, 통증/불편, 불안/우울)
 statistics_name: >-
   질병관리청 「지역사회건강조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21021E&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
