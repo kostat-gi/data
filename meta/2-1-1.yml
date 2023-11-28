@@ -2,12 +2,14 @@ computation_definitions: >-
   <b>영   역</b>: 역량<br>
   <b>하위영역</b>: 제도적 역량
 indicator_name_sub: 공공기관 청렴도
-indicator_definition: 해당 권역 공공기관의 부정부패와 청렴한 정도
+indicator_definition: 해당 공공기관의 부정부패와 청렴한 정도
 indicator_importance: 해당 권역 공공기관의 부정부패와 청렴한 정도는 궁극적으로 정부와 민간의 협력을 통한 발전의 노력에 대한 자발적 참여를 유도함
 computation_calculations: >-
-  외부청렴도 + 내부청렴도 - 부패사건 발생현황
+  외부청렴도 + 내부청렴도 - 부패사건 발생현황<br>
+  *청렴도 점수는 해당 권역의 광역/시/군/구 지자체 종합청렴도 점수의 평균임<br>
+  *'10년~'17년 광역/시/군/구별 평균 점수를 각 등급에 적용하여 산출('18년부터 최종 등급만 발표)
 statistics_name: >-
-  국가권익위원회 「공공기관 청렴도 측정 결과」<br>
+  국가권익위원회 「공공기관 종합청렴도 평가」<br>
   국가권익위원회(<a href="https://acrc.go.kr/" target="_blank">acrc.go.kr</a>) > 정책/정보 > 부패방지자료실
 computation_units: 점
 computation_coverage: 권역
