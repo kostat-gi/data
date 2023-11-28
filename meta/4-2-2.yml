@@ -2,7 +2,7 @@ computation_definitions: >-
   영   역: 매력<br>
   하위영역: 생활/환경의 지속가능성
 indicator_name_sub: 초미세먼지 대기오염도
-indicator_definition: 권역별 도심(거주)지역의 평균 초미세먼지(입자크기 2.5μg 이하인 미세먼지) 농도
+indicator_definition: 도심(거주)지역의 평균 초미세먼지(입자크기 2.5μg 이하인 미세먼지) 농도
 indicator_importance: 미세먼지 등 자연환경의 질은 점점 더 건강과 쾌적함을 중시하는 현대에서 중요한 지역의 매력요인으로 작용함
 computation_calculations: ∑월별 초미세먼지 농도÷12
 statistics_name: >-
