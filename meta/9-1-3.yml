@@ -5,7 +5,7 @@ indicator_name_sub: 인구 천 명당 의사 수
 indicator_definition: 인구 천 명당 의료기관에 종사하는 의사(의사, 한의사, 치과의사)의 수
 indicator_importance: 적정 의료인력 확보를 위한 기초자료로 활용하여 지역별 의료복지수준 파악이 가능함
 computation_calculations: >-
-  (의료기관종사 의사 수÷주민등록인구)×1,000
+  (의료기관종사 의사 수 ÷ 주민등록 인구수) × 1,000
 statistics_name: >-
   국민건강보험공단 「건강보험통계」, 행정안전부 「주민등록인구현황」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20981&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
