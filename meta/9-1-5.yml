@@ -5,7 +5,7 @@ indicator_name_sub: 주관적 건강수준
 indicator_definition: 주관적 건강 수준이 좋다고 생각하는 사람의 비율
 indicator_importance: 개인의 건강에 대한 주관적 인식을 파악해 건강 관련 정책 및 연구의 기초자료로 활용이 가능
 computation_calculations: >-
-  ('매우 좋음', '좋음' 응답자÷전체 응답자)×100<br>
+  ('매우 좋음', '좋음' 응답자 ÷ 전체 응답자) × 100<br>
   * 응답자: 가구원 가중값 적용 ** 전국은 시군구 중앙값
 statistics_name: >-
   *질병관리청 「지역사회건강조사」<br>
