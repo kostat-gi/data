@@ -5,7 +5,7 @@ indicator_name_sub: 삶의 만족도
 indicator_definition: 현재 삶에 대해 전반적으로 만족하는 인구 비율
 indicator_importance: 전반적인 삶의 질을 주관적 웰빙 지표 중 삶의 만족도로 나타내어 해당 권역의 전반적 웰빙의 수준을 나타냄
 computation_calculations: >-
-  (‘매우 만족’, ‘약간 만족’ 응답자÷전체 응답자)×100
+  (‘매우 만족’, ‘약간 만족’ 응답자 ÷ 전체 응답자) × 100
 statistics_name: >-
   통계청 「사회조사」 <br>
   (사회조사 MD 활용) <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a>
