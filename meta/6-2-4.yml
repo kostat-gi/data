@@ -8,10 +8,10 @@ computation_calculations: 대한민국의 행정권이 미치는 전 지역에 �
 statistics_name: >-
   통계청 「전국사업체조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52C03&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
-computation_units: "개, 명"
+computation_units: "개"
 computation_coverage: "시도"
 #data_provision_year: 2006년~2020년
-data_preparation_year: 2006년~2020년
+data_preparation_year: 2006년 ~ 2020년
 #data_download: "/ 2021년 5월 18일"
 data_generation_cycle: "1년"
 #update_cycle: "조사기준년도 익년 12월"
