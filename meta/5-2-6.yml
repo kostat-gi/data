@@ -7,7 +7,7 @@ indicator_importance: 공공임대주택 외 전체 주택 공급량 파악하�
 computation_calculations: 공공주택 건설 분양실적의 합
 statistics_name: >-
   국토교통부 「주택건설실적통계」<br>
-  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=116&tblId=DT_MLTM_5578&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
+  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20981&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "호"
 computation_coverage: "시도"
 #data_provision_year: 2010년~2022년
