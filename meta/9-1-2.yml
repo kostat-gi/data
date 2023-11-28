@@ -4,7 +4,7 @@ computation_definitions: >-
 indicator_name_sub: 인구 십만 명당 자살률
 indicator_definition: 인구 10만 명당 자살(고의적 자해)로 인해 사망한 사람의 수
 indicator_importance: 사회의 구조적 특성과 사회통합 정도를 보여줌
-computation_calculations: (자살사망자 수÷주민등록연앙인구)×100,000
+computation_calculations: (자살 사망자 수 ÷ 주민등록 연앙인구) × 100,000
 statistics_name: >-
   *통계청 「사망원인통계」<br>
   (인구십만명당 자살률) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
