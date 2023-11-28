@@ -5,12 +5,12 @@ indicator_name_sub: 재정자립도
 indicator_definition: 지방자치단체 스스로 살림을 꾸릴 수 있는 능력을 나타내는 지표
 indicator_importance: 지역발전에 필수요소라고 할 수 있는 정부 지원의 기초 재원 확대 정도를 나타내는 지표이며, 재정자립도 수준을 통해 지역 내 사업체와 고용 증가를 예상 가능하기에 고용정책 시 활용이 가능
 computation_calculations: >-
-  (자체수입액÷자치단체 세입결산규모)×100<br>
+  (자체수입액 ÷ 자치단체 세입결산규모) × 100<br>
   *산정기준: 일반회계+특별회계, 결산기준(전국 및 시도별 평균은 순계, 지방자치단체는 총계 기준)<br>
   *2014년부터는 세입과목 개편(잉여금, 이월금, 예탁/예수금이 세외수입에서 제외) 후 자료
 statistics_name: >-
   행정안전부 「지방재정365」<br>
-  <a href="https://lofin.mois.go.kr/websquare/websquare.jsp?w2xPath=/ui/portal/gongsi/item/sd002_tg002.xml&year=2020&ix_code=A060&reOrg=after" target="_blank">&lt;URL 바로가기&gt;</a>
+  <a href="https://www.lofin365.go.kr/" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 2012년 ~ 2020년
