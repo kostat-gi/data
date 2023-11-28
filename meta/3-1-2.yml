@@ -5,7 +5,8 @@ indicator_name_sub: GRDP 증가율
 indicator_definition: 일정 기간 동안 각 경제활동 부문이 만들어낸 전년 대비 부가가치의 증가 비율
 indicator_importance: 산출 측면에서 해당 지역의 경제력이 얼마만큼 확대되고 있는지 파악하는데 중요하며 지역의 현재와 미래의 성장을 가늠할 수 있는 지표
 computation_calculations: >-
-  {(당해년 실질 GRDP - 전년 실질 GRDP) ÷ 전년 실질 GRDP} × 100
+  {(당해년 실질 GRDP - 전년 실질 GRDP) ÷ 전년 실질 GRDP} × 100<br>
+  *권역별 GRDP 증가율은 「지역소득」 자료로 재산출
 statistics_name: >-
   통계청 「지역소득」<br>
   <a href=" https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C81&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
