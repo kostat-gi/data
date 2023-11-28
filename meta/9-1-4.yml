@@ -5,7 +5,7 @@ indicator_name_sub: 스트레스 인지율
 indicator_definition: 평소 일상생활 중 스트레스를 느끼는 사람 비율
 indicator_importance: 정신건강을 측정하는데 대표적인 지표
 computation_calculations: >-
-  ('대단히 많이 느낀다', '많이 느끼는 편이다' 응답자÷전체 응답자)×100<br>
+  ('대단히 많이 느낀다', '많이 느끼는 편이다' 응답자 ÷ 전체 응답자) × 100<br>
   * 응답자: 가구원 가중값 적용  ** 전국 자료: 시군구 중앙값
 statistics_name: >-
   *질병관리청 「지역사회건강조사」<br>
