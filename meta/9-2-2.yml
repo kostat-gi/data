@@ -4,7 +4,9 @@ computation_definitions: >-
 indicator_name_sub: 학급당 학생 수
 indicator_definition: 1개의 학급당 학생의 수
 indicator_importance: 교육여건의 수준을 판단할 수 있는 지표로 교사와 학생 간의 긴밀한 상호작용 파악이 가능하고 이를 통해 내실있는 교육 실현을 가늠할 수 있음
-computation_calculations: 재적 학생 수 ÷ 총 학급 수(학급수의 기준이 2021년부터 편성학급으로 변경됨, 2020년까지는 인가학급 기준임)
+computation_calculations: >-
+  재적 학생 수 ÷ 총 학급 수<br>
+  *'20년까지 총(인가)학급 기준, '21년부터 편성학급으로 변경
 statistics_name: >-
   *한국교육개발원 「교육기본통계」<br>
   (수도권 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL15001&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
