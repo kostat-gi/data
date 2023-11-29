@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 개인생활<br>
   <b>하위영역</b>: 교육/훈련
 indicator_name_sub: 1인당 사교육비
-indicator_definition: 초중고 학생들이 학교의 정규교육과정 이외에 사적인 수요에 의해서 학교밖에서 받는 보충교육을 위해 개인이 부담하는 비용
+indicator_definition: 초중고 학생들이 학교의 정규 교육과정 이외에 사적인 수요에 의해서 학교 밖에서 받는 보충교육을 위해 개인이 부담하는 비용
 indicator_importance: 사교육 영역이 넓어지는 현 상황에서 사교육비 경감대책 및 공교육 내실화 등 교육정책 수립 및 사교육 연구에 기초 자료로 활용이 가능함
 computation_calculations: 초중고 사교육비 ÷ 초중고 학생 수
 statistics_name: >-
