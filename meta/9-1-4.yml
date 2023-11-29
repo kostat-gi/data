@@ -6,7 +6,7 @@ indicator_definition: 평소 일상생활 중 스트레스를 느끼는 사람 �
 indicator_importance: 정신건강을 측정하는데 대표적인 지표
 computation_calculations: >-
   ('대단히 많이 느낀다', '많이 느끼는 편이다' 응답자 ÷ 전체 응답자) × 100<br>
-  * 응답자: 가구원 가중값 적용  ** 전국 자료: 시군구 중앙값
+  *전국 시군구 중앙값
 statistics_name: >-
   *질병관리청 「지역사회건강조사」<br>
   (시군구 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21041E&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
