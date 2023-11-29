@@ -4,7 +4,9 @@ computation_definitions: >-
 indicator_name_sub: 초미세먼지 대기오염도
 indicator_definition: 도심(거주)지역의 평균 초미세먼지(입자크기 2.5μg 이하인 미세먼지) 농도
 indicator_importance: 미세먼지 등 자연환경의 질은 점점 더 건강과 쾌적함을 중시하는 현대에서 중요한 지역의 매력요인으로 작용함
-computation_calculations: ∑월별 초미세먼지 농도 ÷ 12
+computation_calculations: >-
+  ∑월별 초미세먼지 농도 ÷ 12
+  *측정소의 자료 획득율이 75% 미만인 경우를 제외하고 산정
 statistics_name: >-
   환경부 「대기환경연보」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=106&tblId=DT_106N_03_0200176&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
