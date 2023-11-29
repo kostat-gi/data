@@ -6,7 +6,7 @@ indicator_definition: 유학(D2) 체류자격이 있는 외국인 수
 indicator_importance: 해당 권역에서 교육을 받기 위해 해외로부터 유입된 인력은 해당 지역의 매력과 함께 경제적 성장의 기회를 나타냄 
 computation_calculations: 유학(D2) 체류자격이 있는 외국인 수
 statistics_name: >-
-  법무부 「출입국자 및 체류외국인통계」<br>
+  법무부 「출입국자및체류외국인통계」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=111&tblId=DT_1B040A11&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: 명
 computation_coverage: 권역
