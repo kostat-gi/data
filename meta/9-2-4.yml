@@ -5,8 +5,9 @@ indicator_name_sub: 학교 교육의 효과
 indicator_definition: 현재 학교 교육이 생활·직업·취업에의 활용에 효과가 있다고 생각한 사람의 비율
 indicator_importance: 학교교육효과에 대한 국민들의 주관적 의식을 파악 가능
 computation_calculations: >-
-  ('매우 효과있음', '약간 효과있음' 응답자÷전체 응답자)×100<br>
-  * 응답자수: 가구원 가중값 적용
+  ('매우 효과있음', '약간 효과있음' 응답자 ÷ 전체 응답자) × 100<br>
+  *13세 이상 인구를 대상으로 함<br>
+  *수도권 학교 교육의 효과는 「사회조사」 마이크로데이터(microdata)로 재산출
 statistics_name: >-
   *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSED064R&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
