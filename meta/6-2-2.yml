@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 경제적 성과<br>
   <b>하위영역</b>: 일
 indicator_name_sub: 근로여건 만족도
-indicator_definition: 근무하고 있는 직장의 전반적인(임금, 근로시간, 하는일 등) 근로여건에 만족하는 사람의 비율
+indicator_definition: 근무하고 있는 직장의 전반적인(임금, 근로시간, 하는 일 등) 근로 여건에 만족하는 사람의 비율
 indicator_importance: 일자리의 질적인 측면을 근로자가 주관적으로 평가한 지표로서 경제적 성과의 질을 측정할 수 있음
 computation_calculations: >-
   ('매우 만족', '약간 만족' 응답자 ÷ 전체 응답자) × 100<br>
