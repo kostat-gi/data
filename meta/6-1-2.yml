@@ -6,7 +6,7 @@ indicator_definition: GRDP 중 연구개발비 지출이 차지하는 비중
 indicator_importance: 생산성 향상과 높은 부가가치 제품을 창출하기 위한 혁신적 노력정도를 가늠할 수 있음
 computation_calculations: (연구개발비 ÷ 실질 GRDP) × 100
 statistics_name: >-
-  *통계청 「지역소득」,「연구개발비 지출」<br>
+  *통계청 「지역소득」, 「연구개발비 지출」<br>
   (지역소득) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C83&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (연구개발비 지출) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C83&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
