@@ -6,7 +6,8 @@ indicator_definition: 현재 삶에 대해 전반적으로 만족하는 인구 �
 indicator_importance: 삶의 질에 대한 만족도를 나타내는 지표로 해당 지역의 전반적 웰빙 수준을 나타냄
 computation_calculations: >-
   ('매우 만족', '약간 만족' 응답자 ÷ 전체 응답자) × 100<br>
-  * 응답자: 가구원 가중값 적용
+  *13세 이상 인구를 대상으로 함<br>
+  *수도권 삶의 만족도는 「사회조사」 마이크로데이터(microdata)로 재산출
 statistics_name: >-
   *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1SSSP020R&vw_cd=MT_OTITLE&list_id=MT_CTITLE_g_001&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_OTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do" target="_blank">&lt;URL 바로가기&gt;</a><br>
