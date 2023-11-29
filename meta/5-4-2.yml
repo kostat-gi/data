@@ -6,7 +6,7 @@ indicator_definition: 자연증가율과 사회적증가율의 합으로 전년�
 indicator_importance: 국가와 지역의 변화 지표로 가장 빈번이 사용되는 지표 중 하나로 인구수준과 지역발전방향을 예측하는데 사용이 가능
 computation_calculations: >-
   {(당해년 총인구 - 전년 총인구) ÷ 전년 총인구} × 100<br>
-  * 인구: 외국인 포함
+  *주민등록인구 기준, 외국인 포함
 statistics_name: >-
   행정안전부 「주민등록인구현황」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20621&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
