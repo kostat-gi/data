@@ -5,7 +5,9 @@ indicator_name_sub: 녹지환경 만족도
 indicator_definition: 산, 공원 등 주변 녹지의 조성에 대해 만족하고 있는 사람의 비율
 indicator_importance: 환경의 질에 대한 지표로, 녹지환경에 대한 국민들의 만족정도를 파악하여 정책수립 및 연구의 기초자료로 활용이 가능함
 computation_calculations: >-
-  ('매우 좋다', '약간 좋다' 응답자÷전체 응답자)×100<br>* 응답자: 가구원 가중값 적용
+  ('매우 좋다', '약간 좋다' 응답자 ÷ 전체 응답자) × 100<br>
+  *13세 이상 인구를 대상으로 함<br>
+  *수도권 녹지환경 만족도는 「사회조사」 마이크로데이터(microdata)로 재산출
 statistics_name: >-
   *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSEN015R&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
