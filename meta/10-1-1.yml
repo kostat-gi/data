@@ -5,7 +5,7 @@ indicator_name_sub: 공공보육시설 비율
 indicator_definition: 전체 어린이집 중 국공립, 직장, 사회법인 어린이집의 비율
 indicator_importance: 보육의 공공성 강화와 보육서비스의 형평성 제고를 파악할 수 있음
 computation_calculations: >-
-  {(국공립+직장+사회복지법인 어린이집 수)÷전체 어린이집 수}×100
+  {(국공립 + 직장 + 사회복지법인 어린이집 수) ÷ 전체 어린이집 수} × 100
 statistics_name: >-
   보건복지부 「보육통계」<br>
   <a href="https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_2CA0211R&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
