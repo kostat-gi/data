@@ -4,7 +4,9 @@ computation_definitions: >-
 indicator_name_sub: 조혼인율/조이혼율
 indicator_definition: 인구 천 명당 혼인/이혼한 비율
 indicator_importance: 인구규모와 구조의 변동요인인 혼인 및 이혼 현황을 파악하여 정책수립의 기초자료로 활용이 가능함
-computation_calculations: (연간 혼인(이혼) 건수÷주민등록 연앙인구)×1,000
+computation_calculations: >-
+  (연간 혼인/이혼 건수 ÷ 주민등록 연앙인구) × 1,000<br>
+  *(연초 주민등록인구 + 연말 주민등록인구) / 2
 statistics_name: >-
   통계청 「인구동향조사」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B8000I&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
