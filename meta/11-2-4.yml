@@ -5,7 +5,9 @@ indicator_name_sub: 사회 안전에 대한 인식
 indicator_definition: 자연재해, 범죄 발생 등 전반적인 사회 분야에서 안전하다고 생각하는 사람의 비율
 indicator_importance: 전반적인 사회에 대한 국민들의 안전의식을 파악하고 정책수립 및 연구의 기초자료로 활용이 가능함
 computation_calculations: >-
-  ('매우 안전', '비교적 안전' 응답자÷전체 응답자)×100<br>* 응답자: 가구원 가중값 적용
+  ('매우 안전', '비교적 안전' 응답자 ÷ 전체 응답자) × 100<br>
+  *13세 이상 인구를 대상으로 함<br>
+  *수도권 사회 안전에 대한 인식은 「사회조사」 마이크로데이터(microdata)로 재산출
 statistics_name: >-
   *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSSA010R&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
