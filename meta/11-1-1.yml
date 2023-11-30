@@ -4,9 +4,9 @@ computation_definitions: >-
 indicator_name_sub: 1인당 생활폐기물 배출량
 indicator_definition: 주민 1인당 배출하는 생활폐기물의 양
 indicator_importance: 경제활동과 밀접하게 연계되어 있으며, 재활용률이 높아질수록 환경오염 발생가능성이 감소함으로 생활환경행태와 관련하여 중요함
-computation_calculations: 생활폐기물발생량(kg/일)÷주민등록인구
+computation_calculations: 생활폐기물발생량(kg/일) ÷ 주민등록인구
 statistics_name: >-
-  환경부 「전국폐기물발생 및 처리현황」, 행정안전부 「주민등록인구현황」<br>
+  환경부 「전국폐기물발생및처리현황」, 행정안전부 「주민등록인구현황」<br>
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21321&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "kg/일"
 computation_coverage: "시군구"
