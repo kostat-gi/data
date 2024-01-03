@@ -6,7 +6,7 @@ indicator_definition: 현재 거주하는 주택 주변의 주거환경에 대�
 indicator_importance: 국민의 주거실태와 추이를 조사, 파악하여 중장기주택 계획 및 부동산정책에 활용이 가능함
 computation_calculations: >-
   ('매우 만족', '대체로 만족' 응답자 ÷ 전체 응답자) × 100<br>
-  *권역별 주거환경 만족도는 「주거실태조사」 마이크로데이터(microdata)로 재산출
+  *주거환경 만족도는 「주거실태조사」 마이크로데이터(microdata)로 재산출
 statistics_name: >-
   국토교통부 「주거실태조사」<br>
   <a href="http://stat.molit.go.kr/portal/cate/statFileView.do?hRsId=327&hFormId" target="_blank">&lt;URL 바로가기&gt;</a>
