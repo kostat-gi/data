@@ -8,7 +8,8 @@ computation_calculations: ('참여한 적 있다' 응답자 ÷ 전체 응답자)
 statistics_name: >-
   *통계청 「사회조사」<br>
   (시도 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1SSSP181R&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a><br>
-  (수도권 자료 - 사회조사 MD 활용) <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a>
+  (수도권 자료 - 사회조사 MD 활용) <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  ※ 13세 이상 인구 대상
 computation_units: "%"
 computation_coverage: "시도"
 #data_provision_year: "1999년, 2003년, 2006년, 2009년~2021년(홀수년)"
