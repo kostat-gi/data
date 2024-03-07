@@ -12,8 +12,8 @@ statistics_name: >-
   (인터넷이용실태조사 MD 활용) <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: 권역
-#data_provision_year: 2015년 ~ 2021년
-data_preparation_year: 2015년 ~ 2021년
+#data_provision_year: 2015년 ~ 2022년
+data_preparation_year: 2015년 ~ 2022년
 #data_download: "-"
 data_generation_cycle: 1년
 #update_cycle: "-"
