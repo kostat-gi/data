@@ -53,6 +53,9 @@ jobs:
         CLEAN: true
 
 # 2024-04-26 수정
+    - name: Waiting 4 minutes for live data deployment
+      run: |
+        sleep 240
     - name: Rebuild live site
       run: |
         curl -L \
