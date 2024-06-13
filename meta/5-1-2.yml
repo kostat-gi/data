@@ -7,7 +7,7 @@ indicator_importance: 자치구별 인구를 고려한 실질적 재정격차를
 computation_calculations: (자체수입액 ÷ 주민등록인구) * 100
 statistics_name: >-
   행정안전부 「지방재정365」<br>
-  <a href="https://lofin.mois.go.kr" target="_blank">&lt;URL 바로가기&gt;</a>
+  <a href="https://www.lofin365.go.kr/" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "천원"
 computation_coverage: "시군구"
 #data_provision_year: 2012년 ~ 2020년
