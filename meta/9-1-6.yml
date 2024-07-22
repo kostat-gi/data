@@ -10,12 +10,12 @@ computation_calculations: >-
   *전국 시군구 중앙값
 statistics_name: >-
   *질병관리청 「지역사회건강조사」<br>
-  (시군구 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202002E&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
+  (시군구 자료) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_H_OBE_OBE&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a><br>
   (전국/수도권 자료) <a href="https://chs.kdca.go.kr/chs/stats/statsMain.do" target="_blank">질병관리청 지역사회건강조사</a> > 자료실 > 보고서 > 지역건강통계 한눈에 보기
 computation_units: "%"
 computation_coverage: "시군구"
 #data_provision_year: 2008년 ~ 2020년
-data_preparation_year: 2008년 ~ 2022년
+data_preparation_year: 2008년 ~ 2023년
 #data_download: "2022년 6월 3일"
 data_generation_cycle: "1년"
 #update_cycle: "조사기준년도 익년3월"
