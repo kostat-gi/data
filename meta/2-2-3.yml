@@ -13,7 +13,7 @@ statistics_name: >-
   <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52C01&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: 권역
-#data_provision_year: 2015년 ~ 2020년
+#data_provision_year: 2015년 ~ 2022년
 data_preparation_year: 2010년 ~ 2022년
 #data_download: "-"
 data_generation_cycle: 1년
