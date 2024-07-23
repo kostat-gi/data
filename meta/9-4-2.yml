@@ -15,5 +15,5 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: "시도"
 #data_provision_year: "1999년, 2003년, 2007년 ~ 2021년(홀수년)"
-data_preparation_year: "2011년 ~ 2021년(홀수년)"
+data_preparation_year: "2011년 ~ 2023년(홀수년)"
 data_generation_cycle: "2년"
