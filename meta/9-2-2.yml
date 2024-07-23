@@ -13,7 +13,7 @@ statistics_name: >-
   (수도권 자료) <a href="https://kess.kedi.re.kr/index" target="_blank">교육통계서비스</a> > 알림 서비스 > 주요요청자료 > 주제별 공개데이터
 computation_units: "명"
 computation_coverage: "시군구"
-#data_provision_year: 1999년~ 2022년
+#data_provision_year: 1999년~ 2023년
 data_preparation_year: 2001년 ~ 2023년
 #data_download: "2022년 6월"
 data_generation_cycle: "1년"
