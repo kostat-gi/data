@@ -9,6 +9,7 @@ computation_calculations: >-
 statistics_name: >-
   국토교통부 「주거실태조사」<br>
   <a href="http://stat.molit.go.kr/portal/cate/statFileView.do?hRsId=327&hFormId" target="_blank">&lt;URL 바로가기&gt;</a>
+  (사회조사 MD 활용) <a href="https://mdis.kostat.go.kr/index.do" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: 권역
 #data_provision_year: 2015년 ~ 2020년
