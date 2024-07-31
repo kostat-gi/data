@@ -10,7 +10,6 @@ computation_calculations: >-
   *정보통신, 금융, 전문과학 및 기술서비스 , 교육서비스, 보건 및 사회복지서비스, 예술활동 등
 statistics_name: >-
   통계청 「전국사업체조사」<br>
-#  <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52C01&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52D01&conn_path=I2" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "%"
 computation_coverage: 권역
