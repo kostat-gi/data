@@ -2,7 +2,7 @@ computation_definitions: >-
   <b>영   역</b>: 공동생활<br>
   <b>하위영역</b>: 가족/친밀성
 indicator_name_sub: 독거노인 비율
-indicator_definition: 65세 이상 인구 중 혼자 살고있는 노인가구의 비율ㅅ
+indicator_definition: 65세 이상 인구 중 혼자 살고있는 노인가구의 비율
 indicator_importance: 고령화 사회에서 경제적 측면 뿐만 아니라 사회관계 측면에서 어려움에 직면하고 있는 노인들의 생활의 질을 보여줌
 computation_calculations: >-
   (65세 이상 1인가구 ÷ 65세 이상 인구) × 100<br>
