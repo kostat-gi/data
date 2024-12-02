@@ -1,7 +1,7 @@
 computation_definitions: >-
   <b>영   역</b>: 공동생활<br>
   <b>하위영역</b>: 시민사회
-indicator_name_sub: 사회단체 참여율
+indicator_name_sub: 시민사회단체 참여율
 indicator_definition: 지난 1년간(전년 5월 ~ 당해년 5월) 시민사회 단체에 참여, 활동한 사람의 비율
 indicator_importance: 사회단체 참여 여부 및 종류를 파악하여 국민들의 사회참여 의식 파악이 가능함
 computation_calculations: >-
