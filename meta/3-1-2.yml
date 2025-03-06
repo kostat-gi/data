@@ -13,6 +13,6 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: 권역
 #data_provision_year: 2015년 ~ 2020년
-data_preparation_year: 2002년 ~ 2021년
+data_preparation_year: 2002년 ~ 2022년
 #data_download: "-"
 data_generation_cycle: 1년
