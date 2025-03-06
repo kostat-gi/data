@@ -14,7 +14,7 @@ statistics_name: >-
 computation_units: "가임여자 1명당 명"
 computation_coverage: "시군구"
 #data_provision_year: "-"
-data_preparation_year: 2001년 ~ 2022년
+data_preparation_year: 2001년 ~ 2023년
 #data_download: "-"
 data_generation_cycle: "1년"
 #update_cycle: "-"
