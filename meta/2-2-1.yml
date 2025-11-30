@@ -14,8 +14,9 @@ computation_units: "건"
 computation_coverage: 권역
 #computation_coverage: ""
 #data_provision_year: "-"
-data_preparation_year: "2001년 ~ 2023년"
+data_preparation_year: "2001년 ~ 2024년"
 data_generation_cycle: 1년
 #data_download: "-"
 #data_generation_cycle: "-"
 #update_cycle: "-"
+
