@@ -15,7 +15,8 @@ statistics_name: >-
 computation_units: "원"
 computation_coverage: "시도"
 #data_provision_year: 2011년~2021년
-data_preparation_year: 2010년 ~ 2024년
+data_preparation_year: 2010년 ~ 2025년
 #data_download: "-"
 data_generation_cycle: "1년"
 #update_cycle: "-"
+
