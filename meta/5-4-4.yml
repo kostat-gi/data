@@ -11,7 +11,8 @@ statistics_name: >-
 computation_units: "개소"
 computation_coverage: "시도"
 #data_provision_year: 2002년~2021년
-data_preparation_year: 2006년 ~ 2023년
+data_preparation_year: 2006년 ~ 2024년
 #data_download: "-"
 data_generation_cycle: "1년"
 #update_cycle: "익년 9월"
+
