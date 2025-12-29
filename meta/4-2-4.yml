@@ -15,7 +15,8 @@ statistics_name: >-
 computation_units: "%"
 computation_coverage: 권역
 #data_provision_year: 2011년 ~ 2022년
-data_preparation_year: 2011년 ~ 2024년
+data_preparation_year: 2011년 ~ 2025년
 #data_download: "-"
 data_generation_cycle: 1년
 #update_cycle: "조사기준 년도 11월"
+
