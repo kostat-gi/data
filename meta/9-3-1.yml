@@ -18,5 +18,6 @@ computation_coverage: "시도"
 #data_preparation_year: "-"
 #data_download: "-"
 data_generation_cycle: "1년"
-data_preparation_year: "2010년 ~ 2024년"
+data_preparation_year: "2010년 ~ 2025년"
 #update_cycle: "-"
+
