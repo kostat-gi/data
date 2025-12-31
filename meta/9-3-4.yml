@@ -15,10 +15,11 @@ statistics_name: >-
   (상용근로자) <a href="https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7035S&conn_path=I3" target="_blank">&lt;URL 바로가기&gt;</a>
 computation_units: "시간"
 computation_coverage: "시도"
-data_preparation_year: 2010년 ~ 2023년
+data_preparation_year: 2010년 ~ 2024년
 data_generation_cycle: 1년
 #data_provision_year: "-"
 #data_preparation_year: "-"
 #data_download: "-"
 #data_generation_cycle: "-"
 #update_cycle: "-"
+
